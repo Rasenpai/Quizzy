@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import questions from "../../data/chemistry/quiz_chemistry_beginner.json";
+import questions from "../../data/Chemistry/quiz_chemistry_beginner.json";
 import CountdownTimer from "../../components/CountdownTimer";
 
 const ChemistryBeginner = ({ duration }) => {
