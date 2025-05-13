@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import questions from "../../data/math/quiz_math_beginner.json";
+import questions from "../../data/Math/quiz_math_beginner.json";
 import CountdownTimer from "../../components/CountdownTimer";
 
 const MathBeginner = ({ duration }) => {
