@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "question": "Apa itu variabel dalam JavaScript dan bagaimana cara mendeklarasikannya?",
+    "options": ["let x = 10;", "int x = 10;", "var 10 = x;", "define x = 10;"],
+    "answer": "let x = 10;"
+  },
+  {
+    "id": 2,
+    "question": "Apa hasil dari ekspresi berikut? 5 + '5'",
+    "options": ["10", "'55'", "55", "Error"],
+    "answer": "'55'"
+  },
+  {
+    "id": 3,
+    "question": "Apa tipe data yang digunakan untuk menyimpan nilai yang tidak bisa diubah?",
+    "options": ["let", "const", "var", "number"],
+    "answer": "const"
+  },
+  {
+    "id": 4,
+    "question": "Manakah yang benar untuk mendeklarasikan fungsi di JavaScript?",
+    "options": [
+      "function myFunction() {}",
+      "def myFunction() {}",
+      "func myFunction() {}",
+      "function: myFunction() {}"
+    ],
+    "answer": "function myFunction() {}"
+  },
+  {
+    "id": 5,
+    "question": "Apa itu array dalam JavaScript?",
+    "options": [
+      "Sebuah tipe data untuk menyimpan angka saja",
+      "Sebuah tipe data untuk menyimpan koleksi data dalam satu variabel",
+      "Sebuah tipe data untuk menyimpan satu nilai",
+      "Sebuah tipe data untuk menyimpan objek"
+    ],
+    "answer": "Sebuah tipe data untuk menyimpan koleksi data dalam satu variabel"
+  },
+  {
+    "id": 6,
+    "question": "Manakah yang benar untuk mendeklarasikan array di JavaScript?",
+    "options": [
+      "let arr = [1, 2, 3];",
+      "let arr = (1, 2, 3);",
+      "let arr = {1, 2, 3};",
+      "let arr = <1, 2, 3>;"
+    ],
+    "answer": "let arr = [1, 2, 3];"
+  },
+  {
+    "id": 7,
+    "question": "Apa yang dilakukan oleh console.log()?",
+    "options": [
+      "Menyimpan data ke dalam variabel",
+      "Menampilkan data ke dalam konsol",
+      "Menghitung hasil penjumlahan",
+      "Menampilkan data ke layar"
+    ],
+    "answer": "Menampilkan data ke dalam konsol"
+  },
+  {
+    "id": 8,
+    "question": "Apa itu operator perbandingan dalam JavaScript?",
+    "options": ["&&", "==", "+", "&&="],
+    "answer": "=="
+  },
+  {
+    "id": 9,
+    "question": "Manakah yang benar untuk membuat sebuah objek di JavaScript?",
+    "options": [
+      "let obj = {};",
+      "let obj = [];",
+      "let obj = () => {};",
+      "let obj = <obj>;"
+    ],
+    "answer": "let obj = {};"
+  },
+  {
+    "id": 10,
+    "question": "Apa hasil dari ekspresi berikut? '10' === 10",
+    "options": ["true", "false", "NaN", "undefined"],
+    "answer": "false"
+  },
+  {
+    "id": 11,
+    "question": "Manakah dari berikut ini yang merupakan cara untuk mendeklarasikan fungsi dengan parameter default?",
+    "options": [
+      "function myFunc(a = 5) {}",
+      "function myFunc(a: 5) {}",
+      "function myFunc[a = 5] {}",
+      "myFunc(a = 5) => {}"
+    ],
+    "answer": "function myFunc(a = 5) {}"
+  },
+  {
+    "id": 12,
+    "question": "Bagaimana cara menambahkan item ke dalam array di JavaScript?",
+    "options": [
+      "arr.push(item);",
+      "arr.add(item);",
+      "arr.insert(item);",
+      "arr.append(item);"
+    ],
+    "answer": "arr.push(item);"
+  },
+  {
+    "id": 13,
+    "question": "Apa yang akan terjadi jika kamu mencoba mengakses elemen array dengan indeks yang tidak ada?",
+    "options": ["undefined", "null", "error", "NaN"],
+    "answer": "undefined"
+  },
+  {
+    "id": 14,
+    "question": "Bagaimana cara menampilkan elemen pertama dari array di JavaScript?",
+    "options": [
+      "arr[0];",
+      "arr.first();",
+      "arr.firstElement();",
+      "arr.first()"
+    ],
+    "answer": "arr[0];"
+  },
+  {
+    "id": 15,
+    "question": "Apa itu event listener dalam JavaScript?",
+    "options": [
+      "Fungsi untuk menangani event di dalam JavaScript",
+      "Metode untuk menangani error dalam JavaScript",
+      "Fungsi untuk mengubah nilai variabel",
+      "Metode untuk menambahkan elemen ke dalam array"
+    ],
+    "answer": "Fungsi untuk menangani event di dalam JavaScript"
+  },
+  {
+    "id": 16,
+    "question": "Manakah yang benar untuk menangani event click pada sebuah tombol?",
+    "options": [
+      "button.addEventListener('click', function() {});",
+      "button.onClick(function() {});",
+      "button.addClickListener('click', function() {});",
+      "button.onclick(function() {});"
+    ],
+    "answer": "button.addEventListener('click', function() {});"
+  },
+  {
+    "id": 17,
+    "question": "Apa yang akan terjadi jika kamu mendeklarasikan variabel dengan kata kunci 'let' di dalam sebuah blok dan kemudian mencoba mengaksesnya di luar blok?",
+    "options": [
+      "Referensi variabel tersebut tidak dapat diakses",
+      "Variabel tersebut akan tetap bisa diakses",
+      "Program akan menampilkan error",
+      "Variabel akan dideklarasikan secara global"
+    ],
+    "answer": "Referensi variabel tersebut tidak dapat diakses"
+  },
+  {
+    "id": 18,
+    "question": "Apa yang dimaksud dengan hoisting dalam JavaScript?",
+    "options": [
+      "Proses pengurutan nilai variabel secara otomatis",
+      "Proses menaikkan deklarasi variabel dan fungsi ke bagian atas",
+      "Pengubahan nilai variabel secara otomatis",
+      "Penyimpanan nilai variabel dalam memori"
+    ],
+    "answer": "Proses menaikkan deklarasi variabel dan fungsi ke bagian atas"
+  },
+  {
+    "id": 19,
+    "question": "Manakah yang benar untuk mendeklarasikan variabel tanpa nilai di JavaScript?",
+    "options": [
+      "let x;",
+      "var x = null;",
+      "let x = '';",
+      "const x = undefined;"
+    ],
+    "answer": "let x;"
+  },
+  {
+    "id": 20,
+    "question": "Manakah yang benar untuk menggabungkan dua string di JavaScript?",
+    "options": [
+      "'Hello' + 'World';",
+      "'Hello'.concat('World');",
+      "'Hello'.add('World');",
+      "'Hello' - 'World';"
+    ],
+    "answer": "'Hello' + 'World';"
+  },
+  {
+    "id": 21,
+    "question": "Manakah yang benar untuk membuat sebuah objek dengan properti di JavaScript?",
+    "options": [
+      "let obj = {name: 'John', age: 30};",
+      "let obj = (name: 'John', age: 30);",
+      "let obj = ['name': 'John', 'age': 30];",
+      "let obj = new Object(name: 'John', age: 30);"
+    ],
+    "answer": "let obj = {name: 'John', age: 30};"
+  },
+  {
+    "id": 22,
+    "question": "Bagaimana cara untuk menghentikan perulangan di JavaScript?",
+    "options": ["break;", "stop;", "exit;", "continue;"],
+    "answer": "break;"
+  },
+  {
+    "id": 23,
+    "question": "Apa hasil dari ekspresi berikut? 10 % 3",
+    "options": ["1", "3", "0", "10"],
+    "answer": "1"
+  },
+  {
+    "id": 24,
+    "question": "Bagaimana cara memeriksa apakah sebuah variabel memiliki nilai undefined di JavaScript?",
+    "options": [
+      "typeof variable === 'undefined';",
+      "variable === undefined;",
+      "variable == undefined;",
+      "variable === 'undefined';"
+    ],
+    "answer": "typeof variable === 'undefined';"
+  },
+  {
+    "id": 25,
+    "question": "Manakah yang benar untuk membuat fungsi dengan parameter lebih dari satu di JavaScript?",
+    "options": [
+      "function myFunc(a, b) {}",
+      "function myFunc(a: b) {}",
+      "myFunc(a, b) => {}",
+      "function myFunc(a + b) {}"
+    ],
+    "answer": "function myFunc(a, b) {}"
+  },
+  {
+    "id": 26,
+    "question": "Bagaimana cara merubah nilai sebuah elemen dalam array di JavaScript?",
+    "options": [
+      "arr[0] = 5;",
+      "arr.push(5);",
+      "arr.add(5);",
+      "arr.replace(0, 5);"
+    ],
+    "answer": "arr[0] = 5;"
+  },
+  {
+    "id": 27,
+    "question": "Manakah yang benar untuk membuat sebuah array kosong di JavaScript?",
+    "options": [
+      "let arr = [];",
+      "let arr = ();",
+      "let arr = {};",
+      "let arr = < >;"
+    ],
+    "answer": "let arr = [];"
+  },
+  {
+    "id": 28,
+    "question": "Manakah yang benar untuk mengakses elemen terakhir dalam array?",
+    "options": [
+      "arr[arr.length - 1];",
+      "arr.last();",
+      "arr[-1];",
+      "arr.lastElement();"
+    ],
+    "answer": "arr[arr.length - 1];"
+  },
+  {
+    "id": 29,
+    "question": "Apa yang terjadi ketika kamu menggabungkan sebuah string dengan angka di JavaScript?",
+    "options": [
+      "Angka akan diubah menjadi string",
+      "Error terjadi",
+      "Angka akan dijumlahkan dengan string",
+      "Angka akan diperlakukan sebagai objek"
+    ],
+    "answer": "Angka akan diubah menjadi string"
+  },
+  {
+    "id": 30,
+    "question": "Apa yang akan terjadi jika kamu mencoba melakukan operasi penjumlahan dengan nilai NaN?",
+    "options": [
+      "Hasilnya adalah NaN",
+      "Hasilnya adalah angka 0",
+      "Hasilnya adalah undefined",
+      "Hasilnya adalah Infinity"
+    ],
+    "answer": "Hasilnya adalah NaN"
+  },
+  {
+    "id": 31,
+    "question": "Manakah yang benar untuk mendeklarasikan objek kosong di JavaScript?",
+    "options": [
+      "let obj = {};",
+      "let obj = [];",
+      "let obj = ();",
+      "let obj = < >;"
+    ],
+    "answer": "let obj = {};"
+  },
+  {
+    "id": 32,
+    "question": "Bagaimana cara untuk mendapatkan panjang array di JavaScript?",
+    "options": ["arr.length;", "arr.size;", "arr.count;", "arr.length();"],
+    "answer": "arr.length;"
+  },
+  {
+    "id": 33,
+    "question": "Apa itu operator ternary di JavaScript?",
+    "options": [
+      "Operator yang memiliki tiga operand untuk evaluasi kondisi",
+      "Operator yang mengevaluasi dua nilai",
+      "Operator untuk penjumlahan",
+      "Operator untuk perbandingan"
+    ],
+    "answer": "Operator yang memiliki tiga operand untuk evaluasi kondisi"
+  },
+  {
+    "id": 34,
+    "question": "Apa hasil dari ekspresi berikut? true && false",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "false"
+  },
+  {
+    "id": 35,
+    "question": "Bagaimana cara mendeklarasikan variabel di dalam fungsi JavaScript?",
+    "options": [
+      "let x = 10;",
+      "var x = 10;",
+      "const x = 10;",
+      "Semua jawaban benar"
+    ],
+    "answer": "Semua jawaban benar"
+  },
+  {
+    "id": 36,
+    "question": "Apa itu 'callback' dalam JavaScript?",
+    "options": [
+      "Fungsi yang dipanggil setelah fungsi lain selesai dijalankan",
+      "Fungsi yang digunakan untuk mendeklarasikan variabel",
+      "Fungsi yang digunakan untuk mengulang perulangan",
+      "Fungsi yang digunakan untuk menangani error"
+    ],
+    "answer": "Fungsi yang dipanggil setelah fungsi lain selesai dijalankan"
+  },
+  {
+    "id": 37,
+    "question": "Manakah yang benar untuk membuat array dari string di JavaScript?",
+    "options": [
+      "let arr = 'hello'.split('');",
+      "let arr = 'hello'.toArray();",
+      "let arr = ['hello'].split();",
+      "let arr = split('hello');"
+    ],
+    "answer": "let arr = 'hello'.split('');"
+  },
+  {
+    "id": 38,
+    "question": "Bagaimana cara untuk menambahkan sebuah elemen di awal array di JavaScript?",
+    "options": [
+      "arr.unshift(item);",
+      "arr.push(item);",
+      "arr.insert(item);",
+      "arr.append(item);"
+    ],
+    "answer": "arr.unshift(item);"
+  },
+  {
+    "id": 39,
+    "question": "Bagaimana cara memeriksa tipe data suatu variabel di JavaScript?",
+    "options": [
+      "typeof variable;",
+      "typeof(variable);",
+      "type(variable);",
+      "dataType(variable);"
+    ],
+    "answer": "typeof variable;"
+  },
+  {
+    "id": 40,
+    "question": "Apa hasil dari ekspresi berikut? 5 == '5'",
+    "options": ["true", "false", "NaN", "undefined"],
+    "answer": "true"
+  },
+  {
+    "id": 41,
+    "question": "Manakah yang benar untuk menambah elemen pada akhir array?",
+    "options": [
+      "arr.push(item);",
+      "arr.append(item);",
+      "arr.add(item);",
+      "arr.insert(item);"
+    ],
+    "answer": "arr.push(item);"
+  },
+  {
+    "id": 42,
+    "question": "Apa hasil dari ekspresi berikut? 'hello'.repeat(3)",
+    "options": [
+      "'hellohellohello'",
+      "'hello 3'",
+      "'hellohello hello'",
+      "'hello'"
+    ],
+    "answer": "'hellohellohello'"
+  },
+  {
+    "id": 43,
+    "question": "Bagaimana cara mendeklarasikan sebuah konstanta di JavaScript?",
+    "options": [
+      "const PI = 3.14;",
+      "let PI = 3.14;",
+      "var PI = 3.14;",
+      "variable PI = 3.14;"
+    ],
+    "answer": "const PI = 3.14;"
+  },
+  {
+    "id": 44,
+    "question": "Apa yang terjadi jika kamu mendeklarasikan variabel dengan 'const' tanpa memberikan nilai?",
+    "options": [
+      "Akan muncul error",
+      "Nilainya akan otomatis menjadi null",
+      "Nilainya akan otomatis menjadi undefined",
+      "Akan berhasil"
+    ],
+    "answer": "Akan muncul error"
+  },
+  {
+    "id": 45,
+    "question": "Bagaimana cara untuk menghapus elemen terakhir dalam array di JavaScript?",
+    "options": ["arr.pop();", "arr.shift();", "arr.remove();", "arr.delete();"],
+    "answer": "arr.pop();"
+  },
+  {
+    "id": 46,
+    "question": "Manakah yang benar untuk mengganti elemen array di posisi tertentu?",
+    "options": [
+      "arr[2] = 5;",
+      "arr.replace(2, 5);",
+      "arr.change(2, 5);",
+      "arr.set(2, 5);"
+    ],
+    "answer": "arr[2] = 5;"
+  },
+  {
+    "id": 47,
+    "question": "Manakah yang benar untuk menggunakan metode slice() pada array di JavaScript?",
+    "options": [
+      "arr.slice(1, 3);",
+      "arr.slice(1, '3');",
+      "arr.slice(3, 1);",
+      "arr.slice(0);"
+    ],
+    "answer": "arr.slice(1, 3);"
+  },
+  {
+    "id": 48,
+    "question": "Apa itu 'JSON' dalam JavaScript?",
+    "options": [
+      "Format untuk menyimpan dan mentransfer data",
+      "Metode untuk mengakses file",
+      "Tipe data untuk menyimpan objek",
+      "Metode untuk mendeklarasikan fungsi"
+    ],
+    "answer": "Format untuk menyimpan dan mentransfer data"
+  },
+  {
+    "id": 49,
+    "question": "Manakah yang benar untuk mendeklarasikan objek dengan nilai default?",
+    "options": [
+      "let obj = {name: 'John', age: 30};",
+      "let obj = [name: 'John', age: 30];",
+      "let obj = ('name' => 'John', 'age' => 30);",
+      "let obj = new Object(name: 'John', age: 30);"
+    ],
+    "answer": "let obj = {name: 'John', age: 30};"
+  },
+  {
+    "id": 50,
+    "question": "Apa yang dimaksud dengan 'strict mode' dalam JavaScript?",
+    "options": [
+      "Mode untuk membuat JavaScript lebih ketat dalam memeriksa kesalahan",
+      "Mode untuk menambahkan lebih banyak fitur baru",
+      "Mode untuk mempermudah proses debugging",
+      "Mode untuk meningkatkan kecepatan eksekusi"
+    ],
+    "answer": "Mode untuk membuat JavaScript lebih ketat dalam memeriksa kesalahan"
+  }
+]

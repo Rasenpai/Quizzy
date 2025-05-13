@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Berapakah pH larutan dengan konsentrasi ion hidrogen [H⁺] = 3,2 × 10⁻⁵ M?",
+    "options": ["4,21", "4,49", "4,51", "5,21"],
+    "answer": "4,49"
+  },
+  {
+    "id": 2,
+    "question": "Manakah dari berikut ini yang merupakan bentuk hibridisasi atom pusat pada molekul PCl₅?",
+    "options": ["sp³", "sp³d", "sp³d²", "sp²d³"],
+    "answer": "sp³d"
+  },
+  {
+    "id": 3,
+    "question": "Jika 5,85 gram NaCl dilarutkan dalam air hingga volumenya 500 mL, berapakah molaritas larutan tersebut? (Ar Na = 23, Cl = 35,5)",
+    "options": ["0,1 M", "0,2 M", "0,3 M", "0,4 M"],
+    "answer": "0,2 M"
+  },
+  {
+    "id": 4,
+    "question": "Reaksi 2SO₂ + O₂ ⇌ 2SO₃ merupakan reaksi eksotermik. Manakah pernyataan berikut yang benar?",
+    "options": [
+      "Peningkatan suhu akan meningkatkan produksi SO₃",
+      "Peningkatan tekanan akan meningkatkan produksi SO₃",
+      "Penambahan katalis akan menggeser kesetimbangan ke kiri",
+      "Pengurangan O₂ akan menggeser kesetimbangan ke kanan"
+    ],
+    "answer": "Peningkatan tekanan akan meningkatkan produksi SO₃"
+  },
+  {
+    "id": 5,
+    "question": "Dalam elektrolisis larutan NaCl, reaksi yang terjadi pada katoda adalah...",
+    "options": [
+      "2H₂O + 2e⁻ → H₂ + 2OH⁻",
+      "2Cl⁻ → Cl₂ + 2e⁻",
+      "Na⁺ + e⁻ → Na",
+      "2H₂O → O₂ + 4H⁺ + 4e⁻"
+    ],
+    "answer": "2H₂O + 2e⁻ → H₂ + 2OH⁻"
+  },
+  {
+    "id": 6,
+    "question": "Suatu senyawa organik memiliki rumus molekul C₃H₆O. Senyawa tersebut dapat bereaksi dengan reagen Tollens namun tidak bereaksi dengan reagen Fehling. Senyawa tersebut adalah...",
+    "options": ["Propionaldehida", "Aseton", "Asam propanoat", "Propanol"],
+    "answer": "Aseton"
+  },
+  {
+    "id": 7,
+    "question": "Energi ionisasi pertama berturut-turut untuk unsur-unsur periode ketiga adalah: Na (496 kJ/mol), Mg (738 kJ/mol), Al (578 kJ/mol), Si (786 kJ/mol), P (1012 kJ/mol). Manakah pernyataan berikut yang tepat?",
+    "options": [
+      "Na memiliki jari-jari atom terkecil",
+      "Al memiliki energi ionisasi lebih rendah dari Mg karena elektron terluarnya berada pada orbital p",
+      "Si memiliki energi ionisasi lebih tinggi dari P",
+      "Mg memiliki energi ionisasi tertinggi"
+    ],
+    "answer": "Al memiliki energi ionisasi lebih rendah dari Mg karena elektron terluarnya berada pada orbital p"
+  },
+  {
+    "id": 8,
+    "question": "Dalam pembuatan asam sulfat dengan proses kontak, tahapan terakhir adalah...",
+    "options": [
+      "Oksidasi SO₂ menjadi SO₃",
+      "Absorpsi SO₃ dalam air",
+      "Absorpsi SO₃ dalam H₂SO₄ pekat",
+      "Pembakaran belerang menjadi SO₂"
+    ],
+    "answer": "Absorpsi SO₃ dalam H₂SO₄ pekat"
+  },
+  {
+    "id": 9,
+    "question": "Suatu larutan buffer dibuat dengan mencampurkan 50 mL CH₃COOH 0,2 M dan 50 mL CH₃COONa 0,1 M. Jika Ka CH₃COOH = 1,8 × 10⁻⁵, berapakah pH larutan buffer tersebut?",
+    "options": ["4,26", "4,56", "4,74", "5,26"],
+    "answer": "4,26"
+  },
+  {
+    "id": 10,
+    "question": "Manakah dari reaksi berikut yang merupakan reaksi redoks?",
+    "options": [
+      "NaOH + HCl → NaCl + H₂O",
+      "AgNO₃ + NaCl → AgCl + NaNO₃",
+      "Zn + CuSO₄ → ZnSO₄ + Cu",
+      "CaCO₃ → CaO + CO₂"
+    ],
+    "answer": "Zn + CuSO₄ → ZnSO₄ + Cu"
+  },
+  {
+    "id": 11,
+    "question": "Suatu hidrokarbon dengan rumus molekul C₅H₁₀ memiliki 1 ikatan rangkap. Berapakah jumlah isomer yang mungkin untuk senyawa tersebut?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 12,
+    "question": "Jika 150 mL larutan KOH 0,1 M dicampur dengan 50 mL larutan HCl 0,2 M, sifat larutan hasil pencampuran adalah...",
+    "options": [
+      "Asam dengan pH = 2",
+      "Asam dengan pH = 5",
+      "Basa dengan pH = 9",
+      "Basa dengan pH = 12"
+    ],
+    "answer": "Basa dengan pH = 9"
+  },
+  {
+    "id": 13,
+    "question": "Manakah dari senyawa berikut yang bersifat optis aktif?",
+    "options": ["2-butanol", "1-propanol", "Asam etanoat", "Propanon"],
+    "answer": "2-butanol"
+  },
+  {
+    "id": 14,
+    "question": "Pada suhu 27°C, tekanan osmotik suatu larutan urea 0,1 M adalah... (R = 0,082 L.atm/mol.K)",
+    "options": ["2,46 atm", "2,56 atm", "2,66 atm", "2,76 atm"],
+    "answer": "2,46 atm"
+  },
+  {
+    "id": 15,
+    "question": "Diketahui potensial reduksi standar: Fe³⁺/Fe²⁺ = +0,77 V dan Sn⁴⁺/Sn²⁺ = +0,15 V. Manakah pernyataan berikut yang benar?",
+    "options": [
+      "Fe³⁺ dapat mengoksidasi Sn²⁺",
+      "Fe²⁺ dapat mereduksi Sn⁴⁺",
+      "Potensial sel reaksi Fe³⁺ + Sn²⁺ → Fe²⁺ + Sn⁴⁺ adalah +0,62 V",
+      "Reaksi Fe²⁺ + Sn⁴⁺ → Fe³⁺ + Sn²⁺ berlangsung spontan"
+    ],
+    "answer": "Fe³⁺ dapat mengoksidasi Sn²⁺"
+  },
+  {
+    "id": 16,
+    "question": "Unsur dengan konfigurasi elektron [Ar] 3d⁵ 4s¹ adalah...",
+    "options": ["V", "Cr", "Mn", "Fe"],
+    "answer": "Cr"
+  },
+  {
+    "id": 17,
+    "question": "Dalam spektroskopi IR, manakah dari berikut ini yang akan menunjukkan pita serapan pada bilangan gelombang sekitar 1700 cm⁻¹?",
+    "options": ["C-H", "C=C", "C=O", "O-H"],
+    "answer": "C=O"
+  },
+  {
+    "id": 18,
+    "question": "Jika 1,8 gram glukosa (C₆H₁₂O₆) dilarutkan dalam 100 gram air, berapakah penurunan titik beku larutan? (Kf air = 1,86°C/molal, Ar C = 12, H = 1, O = 16)",
+    "options": ["0,186°C", "0,206°C", "0,186 K", "0,206 K"],
+    "answer": "0,186°C"
+  },
+  {
+    "id": 19,
+    "question": "Manakah dari reaksi berikut yang menghasilkan etil asetat?",
+    "options": [
+      "CH₃COOH + CH₃OH → CH₃COOCH₃ + H₂O",
+      "CH₃CH₂COOH + CH₃OH → CH₃CH₂COOCH₃ + H₂O",
+      "CH₃COOH + CH₃CH₂OH → CH₃COOCH₂CH₃ + H₂O",
+      "CH₃CH₂COOH + CH₃CH₂OH → CH₃CH₂COOCH₂CH₃ + H₂O"
+    ],
+    "answer": "CH₃COOH + CH₃CH₂OH → CH₃COOCH₂CH₃ + H₂O"
+  },
+  {
+    "id": 20,
+    "question": "Suatu larutan buffer memiliki pH = 5. Jika ke dalam 100 mL buffer tersebut ditambahkan 1 mmol NaOH, berapakah perubahan pH yang terjadi? (Kapasitas buffer dianggap sangat besar)",
+    "options": [
+      "Meningkat 0,5 unit",
+      "Meningkat 1 unit",
+      "Menurun 0,5 unit",
+      "Tetap"
+    ],
+    "answer": "Tetap"
+  },
+  {
+    "id": 21,
+    "question": "Reaksi yang menunjukkan sifat amfoter dari aluminium adalah...",
+    "options": [
+      "2Al + 6HCl → 2AlCl₃ + 3H₂",
+      "2Al + 3Cl₂ → 2AlCl₃",
+      "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O",
+      "Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]"
+    ],
+    "answer": "Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]"
+  },
+  {
+    "id": 22,
+    "question": "Manakah dari berikut ini yang merupakan reaksi substitusi nukleofilik?",
+    "options": [
+      "CH₃CH₂Br + KOH → CH₂=CH₂ + KBr + H₂O",
+      "CH₃CH₂Br + KOH → CH₃CH₂OH + KBr",
+      "CH₃CH=CH₂ + HBr → CH₃CHBrCH₃",
+      "CH₃COCH₃ + NaBH₄ → CH₃CHOHCH₃"
+    ],
+    "answer": "CH₃CH₂Br + KOH → CH₃CH₂OH + KBr"
+  },
+  {
+    "id": 23,
+    "question": "Dalam elektrolisis larutan CuSO₄ dengan elektroda Pt, jika dialirkan arus 0,5 A selama 32 menit 10 detik, berapa gram Cu yang diendapkan pada katoda? (Ar Cu = 63,5; F = 96500 C/mol)",
+    "options": ["0,32 gram", "0,33 gram", "0,34 gram", "0,35 gram"],
+    "answer": "0,33 gram"
+  },
+  {
+    "id": 24,
+    "question": "Suatu gas ideal menempati volume 4 L pada suhu 27°C dan tekanan 2 atm. Jika gas dipanaskan pada volume tetap hingga suhunya menjadi 127°C, berapakah tekanan akhir gas tersebut?",
+    "options": ["2,67 atm", "3,00 atm", "3,33 atm", "4,00 atm"],
+    "answer": "2,67 atm"
+  },
+  {
+    "id": 25,
+    "question": "Dalam pembuatan sabun, reaksi yang terjadi adalah...",
+    "options": [
+      "Hidrolisis asam dengan katalis basa",
+      "Hidrolisis ester dengan katalis basa",
+      "Kondensasi aldol",
+      "Polimerisasi adisi"
+    ],
+    "answer": "Hidrolisis ester dengan katalis basa"
+  }
+]

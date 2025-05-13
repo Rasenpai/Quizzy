@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "question": "Apa satuan SI untuk gaya?",
+    "options": ["Watt", "Newton", "Joule", "Pascal"],
+    "answer": "Newton"
+  },
+  {
+    "id": 2,
+    "question": "Benda diam akan tetap diam kecuali...",
+    "options": [
+      "Ada gaya yang bekerja padanya",
+      "Ada massa",
+      "Suhu berubah",
+      "Bentuknya berubah"
+    ],
+    "answer": "Ada gaya yang bekerja padanya"
+  },
+  {
+    "id": 3,
+    "question": "Kecepatan adalah...",
+    "options": [
+      "Perpindahan dibagi waktu",
+      "Jarak dikali waktu",
+      "Gaya dibagi massa",
+      "Energi dikali jarak"
+    ],
+    "answer": "Perpindahan dibagi waktu"
+  },
+  {
+    "id": 4,
+    "question": "Hukum Newton ke-2 menyatakan...",
+    "options": [
+      "Gaya = massa × percepatan",
+      "Aksi = reaksi",
+      "Setiap benda akan diam selamanya",
+      "Energi tidak bisa diciptakan"
+    ],
+    "answer": "Gaya = massa × percepatan"
+  },
+  {
+    "id": 5,
+    "question": "Alat untuk mengukur gaya adalah...",
+    "options": ["Neraca", "Barometer", "Dinamometer", "Hidrometer"],
+    "answer": "Dinamometer"
+  },
+  {
+    "id": 6,
+    "question": "Satuan SI untuk energi adalah...",
+    "options": ["Watt", "Newton", "Joule", "Ohm"],
+    "answer": "Joule"
+  },
+  {
+    "id": 7,
+    "question": "Bunyi dapat merambat melalui...",
+    "options": ["Udara", "Ruang hampa", "Cahaya", "Warna"],
+    "answer": "Udara"
+  },
+  {
+    "id": 8,
+    "question": "Berapakah nilai percepatan gravitasi di Bumi?",
+    "options": ["5 m/s²", "9.8 m/s²", "12 m/s²", "3 m/s²"],
+    "answer": "9.8 m/s²"
+  },
+  {
+    "id": 9,
+    "question": "Cahaya termasuk jenis gelombang...",
+    "options": ["Mekanik", "Transversal", "Longitudinal", "Panas"],
+    "answer": "Transversal"
+  },
+  {
+    "id": 10,
+    "question": "Alat untuk mengukur suhu adalah...",
+    "options": ["Amperemeter", "Thermometer", "Voltmeter", "Galvanometer"],
+    "answer": "Thermometer"
+  },
+  {
+    "id": 11,
+    "question": "Benda dikatakan bergerak jika...",
+    "options": [
+      "Massanya tetap",
+      "Suhu berubah",
+      "Posisinya berubah terhadap acuan",
+      "Warnanya berubah"
+    ],
+    "answer": "Posisinya berubah terhadap acuan"
+  },
+  {
+    "id": 12,
+    "question": "Besar tekanan adalah...",
+    "options": [
+      "Gaya dikali luas",
+      "Gaya dibagi luas",
+      "Massa dikali percepatan",
+      "Volume dibagi massa"
+    ],
+    "answer": "Gaya dibagi luas"
+  },
+  {
+    "id": 13,
+    "question": "Hukum Archimedes menjelaskan tentang...",
+    "options": [
+      "Tekanan dalam zat cair",
+      "Gaya apung",
+      "Gaya gesek",
+      "Gaya sentripetal"
+    ],
+    "answer": "Gaya apung"
+  },
+  {
+    "id": 14,
+    "question": "Benda yang ringan jatuh lebih lambat dari benda berat jika...",
+    "options": [
+      "Tanpa udara",
+      "Di luar angkasa",
+      "Ada hambatan udara",
+      "Dibakar dulu"
+    ],
+    "answer": "Ada hambatan udara"
+  },
+  {
+    "id": 15,
+    "question": "Apa alat untuk mengukur massa?",
+    "options": ["Neraca", "Jangka sorong", "Voltmeter", "Stopwatch"],
+    "answer": "Neraca"
+  },
+  {
+    "id": 16,
+    "question": "Apa satuan SI untuk suhu?",
+    "options": ["Fahrenheit", "Reamur", "Kelvin", "Celcius"],
+    "answer": "Kelvin"
+  },
+  {
+    "id": 17,
+    "question": "Gelombang bunyi termasuk gelombang...",
+    "options": ["Transversal", "Longitudinal", "Mekanik", "Elektromagnetik"],
+    "answer": "Longitudinal"
+  },
+  {
+    "id": 18,
+    "question": "Volt merupakan satuan dari...",
+    "options": ["Hambatan", "Kuat arus", "Tegangan", "Daya listrik"],
+    "answer": "Tegangan"
+  },
+  {
+    "id": 19,
+    "question": "Berapakah jumlah planet dalam Tata Surya?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "id": 20,
+    "question": "Gaya gesek bekerja untuk...",
+    "options": [
+      "Mempercepat benda",
+      "Menahan gerak benda",
+      "Menghentikan gaya gravitasi",
+      "Menambah massa benda"
+    ],
+    "answer": "Menahan gerak benda"
+  },
+  {
+    "id": 21,
+    "question": "Hukum kekekalan energi menyatakan bahwa...",
+    "options": [
+      "Energi bisa habis",
+      "Energi dapat diciptakan",
+      "Energi tidak dapat diciptakan atau dimusnahkan",
+      "Energi hanya untuk panas"
+    ],
+    "answer": "Energi tidak dapat diciptakan atau dimusnahkan"
+  },
+  {
+    "id": 22,
+    "question": "Alat yang digunakan untuk mengukur waktu adalah...",
+    "options": ["Thermometer", "Stopwatch", "Jangka sorong", "Mistar"],
+    "answer": "Stopwatch"
+  },
+  {
+    "id": 23,
+    "question": "Apa satuan SI untuk daya?",
+    "options": ["Joule", "Watt", "Volt", "Ohm"],
+    "answer": "Watt"
+  },
+  {
+    "id": 24,
+    "question": "Lensa cembung memiliki sifat...",
+    "options": [
+      "Menyebarkan cahaya",
+      "Menyerap cahaya",
+      "Mengumpulkan cahaya",
+      "Menghapus cahaya"
+    ],
+    "answer": "Mengumpulkan cahaya"
+  },
+  {
+    "id": 25,
+    "question": "Apa satuan SI untuk hambatan listrik?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ohm"
+  }
+]

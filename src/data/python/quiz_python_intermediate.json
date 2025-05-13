@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "question": "Apa output dari kode berikut?  print(type(lambda x: x))",
+    "options": ["function", "lambda", "<class 'function'>", "<class 'lambda'>"],
+    "answer": "<class 'function'>"
+  },
+  {
+    "id": 2,
+    "question": "Apa yang dilakukan `*args` dalam definisi fungsi Python?",
+    "options": [
+      "Menangkap semua argumen kata kunci",
+      "Menangkap semua argumen posisi",
+      "Menggabungkan semua parameter",
+      "Menentukan tipe parameter"
+    ],
+    "answer": "Menangkap semua argumen posisi"
+  },
+  {
+    "id": 3,
+    "question": "Apa fungsi dari `zip()` dalam Python?",
+    "options": [
+      "Menggabungkan dua string",
+      "Menggabungkan dua list ke dalam tuple berpasangan",
+      "Mengompres file",
+      "Membuka file .zip"
+    ],
+    "answer": "Menggabungkan dua list ke dalam tuple berpasangan"
+  },
+  {
+    "id": 4,
+    "question": "Apa perbedaan antara list dan tuple di Python?",
+    "options": [
+      "List bisa diubah, tuple tidak bisa",
+      "Tuple lebih lambat dari list",
+      "Tuple bisa diubah, list tidak bisa",
+      "Tidak ada perbedaan"
+    ],
+    "answer": "List bisa diubah, tuple tidak bisa"
+  },
+  {
+    "id": 5,
+    "question": "Apa hasil dari `bool([])`?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "False"
+  },
+  {
+    "id": 6,
+    "question": "Apa fungsi dari `enumerate()` dalam Python?",
+    "options": [
+      "Mengurutkan elemen",
+      "Mengubah list menjadi tuple",
+      "Memberi indeks pada iterable",
+      "Mengeksekusi fungsi dalam loop"
+    ],
+    "answer": "Memberi indeks pada iterable"
+  },
+  {
+    "id": 7,
+    "question": "Bagaimana cara menangani error di Python?",
+    "options": [
+      "Dengan perintah try-except",
+      "Dengan perintah if-else",
+      "Dengan perintah switch-case",
+      "Dengan perintah loop"
+    ],
+    "answer": "Dengan perintah try-except"
+  },
+  {
+    "id": 8,
+    "question": "Apa hasil dari kode berikut? \n\n \n x = [1, 2, 3] \ny = x\nx.append(4)\nprint(y)\n```",
+    "options": ["[1, 2, 3]", "[1, 2, 3, 4]", "[4]", "Error"],
+    "answer": "[1, 2, 3, 4]"
+  },
+  {
+    "id": 9,
+    "question": "Apa itu dictionary dalam Python?",
+    "options": [
+      "Struktur data dengan indeks numerik",
+      "Struktur data yang tidak bisa diubah",
+      "Struktur data dengan pasangan kunci-nilai",
+      "Struktur data mirip list"
+    ],
+    "answer": "Struktur data dengan pasangan kunci-nilai"
+  },
+  {
+    "id": 10,
+    "question": "Apa peran `self` dalam class Python?",
+    "options": [
+      "Menunjuk objek saat ini",
+      "Menunjuk ke modul",
+      "Variabel global",
+      "Parameter opsional"
+    ],
+    "answer": "Menunjuk objek saat ini"
+  },
+  {
+    "id": 11,
+    "question": "Apa itu list comprehension?",
+    "options": [
+      "Cara untuk membuat dictionary",
+      "Sintaks cepat untuk membuat list",
+      "Fungsi rekursif",
+      "Tipe data baru"
+    ],
+    "answer": "Sintaks cepat untuk membuat list"
+  },
+  {
+    "id": 12,
+    "question": "Apa hasil dari `set([1, 2, 2, 3])`?",
+    "options": ["{1, 2, 3}", "[1, 2, 3]", "{1, 2, 2, 3}", "Error"],
+    "answer": "{1, 2, 3}"
+  },
+  {
+    "id": 13,
+    "question": "Apa perbedaan `is` dan `==` di Python?",
+    "options": [
+      "`is` membandingkan nilai, `==` membandingkan identitas",
+      "`is` dan `==` identik",
+      "`is` membandingkan identitas, `==` membandingkan nilai",
+      "Keduanya hanya untuk angka"
+    ],
+    "answer": "`is` membandingkan identitas, `==` membandingkan nilai"
+  },
+  {
+    "id": 14,
+    "question": "Fungsi bawaan apa yang digunakan untuk menghitung panjang dari list?",
+    "options": ["count()", "length()", "size()", "len()"],
+    "answer": "len()"
+  },
+  {
+    "id": 15,
+    "question": "Bagaimana cara membaca file teks di Python?",
+    "options": [
+      "readfile('nama.txt')",
+      "file.open('nama.txt')",
+      "open('nama.txt')",
+      "get('nama.txt')"
+    ],
+    "answer": "open('nama.txt')"
+  },
+  {
+    "id": 16,
+    "question": "Apa arti dari `None` di Python?",
+    "options": ["0", "False", "Tidak ada nilai", "Kosong string"],
+    "answer": "Tidak ada nilai"
+  },
+  {
+    "id": 17,
+    "question": "Apa kegunaan `with` saat membuka file?",
+    "options": [
+      "Untuk menghindari error",
+      "Untuk menulis file",
+      "Untuk membuka banyak file",
+      "Untuk menutup file secara otomatis"
+    ],
+    "answer": "Untuk menutup file secara otomatis"
+  },
+  {
+    "id": 18,
+    "question": "Apa itu decorator di Python?",
+    "options": [
+      "Fungsi untuk menghias string",
+      "Fungsi yang mengubah atau memperluas fungsi lain",
+      "Variabel khusus",
+      "Tipe data baru"
+    ],
+    "answer": "Fungsi yang mengubah atau memperluas fungsi lain"
+  },
+  {
+    "id": 19,
+    "question": "Apa output dari `print(2 ** 3 ** 2)`?",
+    "options": ["64", "512", "36", "256"],
+    "answer": "512"
+  },
+  {
+    "id": 20,
+    "question": "Bagaimana cara meng-import modul math?",
+    "options": ["import Math", "include math", "import math", "using math"],
+    "answer": "import math"
+  },
+  {
+    "id": 21,
+    "question": "Apa hasil dari `list(range(3))`?",
+    "options": ["[1, 2, 3]", "[0, 1, 2]", "[0, 1, 2, 3]", "range(3)"],
+    "answer": "[0, 1, 2]"
+  },
+  {
+    "id": 22,
+    "question": "Apa fungsi dari `map()` dalam Python?",
+    "options": [
+      "Mengubah tipe data",
+      "Menerapkan fungsi ke setiap item dalam iterable",
+      "Menyalin list",
+      "Menyortir data"
+    ],
+    "answer": "Menerapkan fungsi ke setiap item dalam iterable"
+  },
+  {
+    "id": 23,
+    "question": "Apa hasil dari `type([]) == list`?",
+    "options": ["True", "False", "Error", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 24,
+    "question": "Apa perbedaan utama antara `deepcopy` dan `copy`?",
+    "options": [
+      "`copy` menyalin objek secara rekursif",
+      "`deepcopy` membuat salinan referensi",
+      "`copy` hanya untuk string",
+      "`deepcopy` menyalin seluruh objek termasuk objek di dalamnya"
+    ],
+    "answer": "`deepcopy` menyalin seluruh objek termasuk objek di dalamnya"
+  },
+  {
+    "id": 25,
+    "question": "Apa itu generator dalam Python?",
+    "options": [
+      "Fungsi yang mengembalikan list",
+      "Fungsi yang menghasilkan item satu per satu dengan `yield`",
+      "Loop tak hingga",
+      "Fungsi yang dijalankan di thread lain"
+    ],
+    "answer": "Fungsi yang menghasilkan item satu per satu dengan `yield`"
+  },
+  {
+    "id": 26,
+    "question": "Apa hasil dari kode berikut?\n\n```python\nx = {1, 2, 3}\nx.add(4)\nprint(x)\n```",
+    "options": ["{1, 2, 3}", "{4, 1, 2, 3}", "{1, 2, 3, 4}", "Error"],
+    "answer": "{1, 2, 3, 4}"
+  },
+  {
+    "id": 27,
+    "question": "Bagaimana cara mendefinisikan fungsi dengan dua parameter di Python?",
+    "options": [
+      "def func(x, y):",
+      "def func(x, y, z):",
+      "def func(x, y){}",
+      "def func(x, y): pass"
+    ],
+    "answer": "def func(x, y):"
+  },
+  {
+    "id": 28,
+    "question": "Apa hasil dari kode berikut?\n\n```python\nx = [1, 2, 3]\nprint(x[1:])\n```",
+    "options": ["[2, 3]", "[1, 2]", "[1]", "[1, 2, 3]"],
+    "answer": "[2, 3]"
+  },
+  {
+    "id": 29,
+    "question": "Apa yang dilakukan `sorted()` di Python?",
+    "options": [
+      "Menyortir elemen dalam list",
+      "Mengubah list menjadi tuple",
+      "Menyortir string",
+      "Membalik urutan elemen"
+    ],
+    "answer": "Menyortir elemen dalam list"
+  },
+  {
+    "id": 30,
+    "question": "Apa itu slicing dalam Python?",
+    "options": [
+      "Mengambil elemen dari list",
+      "Menghapus elemen dari list",
+      "Menggabungkan dua list",
+      "Membalikkan list"
+    ],
+    "answer": "Mengambil elemen dari list"
+  },
+  {
+    "id": 31,
+    "question": "Apa hasil dari `len('Hello')`?",
+    "options": ["5", "Hello", "4", "None"],
+    "answer": "5"
+  },
+  {
+    "id": 32,
+    "question": "Apa output dari `print(3 * 'abc')`?",
+    "options": ["abcabcabc", "3abc", "abc", "None"],
+    "answer": "abcabcabc"
+  },
+  {
+    "id": 33,
+    "question": "Apa yang dimaksud dengan fungsi rekursif?",
+    "options": [
+      "Fungsi yang dipanggil di dalam fungsi itu sendiri",
+      "Fungsi yang mengembalikan nilai tanpa parameter",
+      "Fungsi yang memanggil fungsi lain",
+      "Fungsi yang hanya dipanggil sekali"
+    ],
+    "answer": "Fungsi yang dipanggil di dalam fungsi itu sendiri"
+  },
+  {
+    "id": 34,
+    "question": "Bagaimana cara mengubah string menjadi angka di Python?",
+    "options": ["int('123')", "parseInt('123')", "str(123)", "float('123.45')"],
+    "answer": "int('123')"
+  },
+  {
+    "id": 35,
+    "question": "Apa yang dilakukan `break` dalam loop?",
+    "options": [
+      "Melanjutkan iterasi berikutnya",
+      "Menghentikan seluruh program",
+      "Keluar dari loop",
+      "Melewati satu iterasi"
+    ],
+    "answer": "Keluar dari loop"
+  },
+  {
+    "id": 36,
+    "question": "Apa hasil dari kode berikut?\n\n```python\nx = [1, 2, 3]\ny = [1, 2, 3]\nprint(x == y)\n```",
+    "options": ["True", "Error", "None", "False"],
+    "answer": "True"
+  },
+  {
+    "id": 37,
+    "question": "Apa output dari `print('hello'.capitalize())`?",
+    "options": ["None", "Hello", "HELLO", "hello"],
+    "answer": "Hello"
+  },
+  {
+    "id": 38,
+    "question": "Apa hasil dari `x = [1, 2, 3]; x[1] = 4; print(x)`?",
+    "options": ["[1, 4, 3]", "[1, 2, 4]", "[1, 2, 3]", "[1, 2]"],
+    "answer": "[1, 4, 3]"
+  },
+  {
+    "id": 39,
+    "question": "Bagaimana cara mengimport semua fungsi dari modul tertentu di Python?",
+    "options": [
+      "from module import *",
+      "import module",
+      "include math",
+      "from module import all"
+    ],
+    "answer": "from module import *"
+  },
+  {
+    "id": 40,
+    "question": "Apa itu `lambda` function di Python?",
+    "options": [
+      "Fungsi yang dapat dipanggil secara langsung",
+      "Fungsi tanpa nama yang dapat dibuat secara singkat",
+      "Fungsi yang membutuhkan return",
+      "Fungsi yang dapat mengambil beberapa parameter"
+    ],
+    "answer": "Fungsi tanpa nama yang dapat dibuat secara singkat"
+  },
+  {
+    "id": 41,
+    "question": "Apa hasil dari `print(1 / 2)`?",
+    "options": ["0.5", "2", "1", "0"],
+    "answer": "0.5"
+  },
+  {
+    "id": 42,
+    "question": "Apa yang dilakukan `extend()` di Python?",
+    "options": [
+      "Menggabungkan dua list",
+      "Menambahkan satu elemen ke list",
+      "Menyaring elemen dari list",
+      "Menghapus elemen dari list"
+    ],
+    "answer": "Menggabungkan dua list"
+  },
+  {
+    "id": 43,
+    "question": "Bagaimana cara memeriksa apakah suatu elemen ada dalam list?",
+    "options": ["in", "index()", "contains()", "is_in()"],
+    "answer": "in"
+  },
+  {
+    "id": 44,
+    "question": "Apa hasil dari `print(5 // 2)`?",
+    "options": ["2", "5", "2.5", "3"],
+    "answer": "2"
+  },
+  {
+    "id": 45,
+    "question": "Apa hasil dari `print(2 == 2)`?",
+    "options": ["True", "None", "Error", "False"],
+    "answer": "True"
+  },
+  {
+    "id": 46,
+    "question": "Bagaimana cara mendefinisikan sebuah class di Python?",
+    "options": [
+      "class MyClass():",
+      "function MyClass",
+      "def MyClass",
+      "class MyClass"
+    ],
+    "answer": "class MyClass():"
+  },
+  {
+    "id": 47,
+    "question": "Apa yang dimaksud dengan `self` dalam class di Python?",
+    "options": [
+      "Menunjuk ke metode dalam class",
+      "Menunjuk objek saat ini",
+      "Menunjuk variabel lokal",
+      "Menunjuk kelas yang lebih besar"
+    ],
+    "answer": "Menunjuk objek saat ini"
+  },
+  {
+    "id": 48,
+    "question": "Apa yang terjadi jika kita mencoba menambahkan elemen ke dalam set yang sudah ada di Python?",
+    "options": [
+      "Elemen ditambahkan sekali saja",
+      "Set menjadi lebih besar",
+      "Elemen akan digabung",
+      "Error akan muncul"
+    ],
+    "answer": "Elemen ditambahkan sekali saja"
+  },
+  {
+    "id": 49,
+    "question": "Bagaimana cara mendefinisikan fungsi yang menerima argumen variabel panjang?",
+    "options": [
+      "def func(*args):",
+      "def func(args):",
+      "def func(...):",
+      "def func(**args):"
+    ],
+    "answer": "def func(*args):"
+  },
+  {
+    "id": 50,
+    "question": "Apa output dari kode berikut?\n\n```python\nx = {'a': 1, 'b': 2}\ny = {'a': 1, 'b': 2}\nprint(x == y)\n```",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "True"
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "id": 1,
+    "question": "Apa fungsi dari `#include <iostream>` dalam C++?",
+    "options": [
+      "Untuk menampilkan teks",
+      "Untuk memasukkan library input/output",
+      "Untuk membuat loop",
+      "Untuk mengatur memori"
+    ],
+    "answer": "Untuk memasukkan library input/output"
+  },
+  {
+    "id": 2,
+    "question": "Apa tipe data untuk bilangan bulat di C++?",
+    "options": ["int", "float", "string", "char"],
+    "answer": "int"
+  },
+  {
+    "id": 3,
+    "question": "Apa yang dimaksud dengan operator `++` di C++?",
+    "options": [
+      "Penjumlahan",
+      "Pengurangan",
+      "Increment (menambah 1)",
+      "Decrement (mengurangi 1)"
+    ],
+    "answer": "Increment (menambah 1)"
+  },
+  {
+    "id": 4,
+    "question": "Bagaimana cara menulis komentar dalam C++?",
+    "options": [
+      "// Komentar",
+      "/* Komentar */",
+      "// Komentar",
+      "<!-- Komentar -->"
+    ],
+    "answer": "// Komentar"
+  },
+  {
+    "id": 5,
+    "question": "Bagaimana cara mendeklarasikan variabel dengan tipe data integer di C++?",
+    "options": ["int var;", "integer var;", "float var;", "var int;"],
+    "answer": "int var;"
+  },
+  {
+    "id": 6,
+    "question": "Apa hasil dari ekspresi `5 + 3 * 2` di C++?",
+    "options": ["16", "11", "21", "13"],
+    "answer": "11"
+  },
+  {
+    "id": 7,
+    "question": "Bagaimana cara menulis sebuah fungsi dalam C++?",
+    "options": [
+      "void function() {}",
+      "function void() {}",
+      "def function() {}",
+      "function() {}"
+    ],
+    "answer": "void function() {}"
+  },
+  {
+    "id": 8,
+    "question": "Apa itu `cin` dalam C++?",
+    "options": [
+      "Digunakan untuk input",
+      "Digunakan untuk output",
+      "Digunakan untuk mendeklarasikan variabel",
+      "Digunakan untuk mendeklarasikan fungsi"
+    ],
+    "answer": "Digunakan untuk input"
+  },
+  {
+    "id": 9,
+    "question": "Bagaimana cara membuat array di C++?",
+    "options": ["int arr[5];", "arr[5] int;", "array int[5];", "int[5] arr;"],
+    "answer": "int arr[5];"
+  },
+  {
+    "id": 10,
+    "question": "Apa yang dimaksud dengan pointer dalam C++?",
+    "options": [
+      "Variabel yang menyimpan alamat memori",
+      "Variabel yang menyimpan nilai",
+      "Variabel yang digunakan untuk looping",
+      "Variabel yang menyimpan string"
+    ],
+    "answer": "Variabel yang menyimpan alamat memori"
+  },
+  {
+    "id": 11,
+    "question": "Apa itu `return` dalam fungsi C++?",
+    "options": [
+      "Untuk mengakhiri program",
+      "Untuk mengembalikan nilai dari fungsi",
+      "Untuk membuat loop",
+      "Untuk mendeklarasikan variabel"
+    ],
+    "answer": "Untuk mengembalikan nilai dari fungsi"
+  },
+  {
+    "id": 12,
+    "question": "Apa tipe data yang digunakan untuk menyimpan karakter di C++?",
+    "options": ["char", "string", "int", "bool"],
+    "answer": "char"
+  },
+  {
+    "id": 13,
+    "question": "Bagaimana cara membuat loop `for` di C++?",
+    "options": [
+      "for(i = 0; i < 5; i++) {}",
+      "for(i < 5) {}",
+      "while(i < 5) {}",
+      "loop i = 0 to 5 {}"
+    ],
+    "answer": "for(i = 0; i < 5; i++) {}"
+  },
+  {
+    "id": 14,
+    "question": "Apa itu `else` dalam C++?",
+    "options": [
+      "Bagian dari percabangan if",
+      "Bagian dari loop",
+      "Bagian dari deklarasi variabel",
+      "Bagian dari fungsi"
+    ],
+    "answer": "Bagian dari percabangan if"
+  },
+  {
+    "id": 15,
+    "question": "Bagaimana cara menginisialisasi pointer di C++?",
+    "options": [
+      "int* ptr = &var;",
+      "ptr = int&var;",
+      "int ptr* = var;",
+      "ptr = &int var;"
+    ],
+    "answer": "int* ptr = &var;"
+  },
+  {
+    "id": 16,
+    "question": "Apa itu `namespace` dalam C++?",
+    "options": [
+      "Untuk mengelompokkan kode dalam ruang nama",
+      "Untuk mendeklarasikan fungsi",
+      "Untuk mendeklarasikan variabel",
+      "Untuk mengatur input/output"
+    ],
+    "answer": "Untuk mengelompokkan kode dalam ruang nama"
+  },
+  {
+    "id": 17,
+    "question": "Bagaimana cara menulis pernyataan `if` di C++?",
+    "options": [
+      "if (condition) {}",
+      "if condition {}",
+      "if (condition) do {}",
+      "if {}"
+    ],
+    "answer": "if (condition) {}"
+  },
+  {
+    "id": 18,
+    "question": "Apa itu `new` dalam C++?",
+    "options": [
+      "Digunakan untuk alokasi memori dinamis",
+      "Digunakan untuk deklarasi variabel",
+      "Digunakan untuk mencetak output",
+      "Digunakan untuk input data"
+    ],
+    "answer": "Digunakan untuk alokasi memori dinamis"
+  },
+  {
+    "id": 19,
+    "question": "Bagaimana cara menangani error di C++?",
+    "options": [
+      "Dengan try-catch block",
+      "Dengan if statement",
+      "Dengan switch-case",
+      "Dengan exception"
+    ],
+    "answer": "Dengan try-catch block"
+  },
+  {
+    "id": 20,
+    "question": "Apa itu `class` dalam C++?",
+    "options": [
+      "Template untuk membuat objek",
+      "Tipe data",
+      "Operasi matematis",
+      "Fungsi"
+    ],
+    "answer": "Template untuk membuat objek"
+  },
+  {
+    "id": 21,
+    "question": "Apa itu destructor dalam C++?",
+    "options": [
+      "Fungsi yang dipanggil saat objek dihapus",
+      "Fungsi yang digunakan untuk menginisialisasi objek",
+      "Fungsi untuk mendeklarasikan variabel",
+      "Fungsi untuk alokasi memori"
+    ],
+    "answer": "Fungsi yang dipanggil saat objek dihapus"
+  },
+  {
+    "id": 22,
+    "question": "Apa fungsi dari `sizeof` di C++?",
+    "options": [
+      "Untuk mengetahui ukuran tipe data dalam memori",
+      "Untuk mencetak output",
+      "Untuk input data",
+      "Untuk mendeklarasikan variabel"
+    ],
+    "answer": "Untuk mengetahui ukuran tipe data dalam memori"
+  },
+  {
+    "id": 23,
+    "question": "Bagaimana cara membuat konstruktor dalam C++?",
+    "options": [
+      "class NamaClass { public: NamaClass() {} }",
+      "class NamaClass { NamaClass() {} }",
+      "void NamaClass() {}",
+      "class NamaClass() {}"
+    ],
+    "answer": "class NamaClass { public: NamaClass() {} }"
+  },
+  {
+    "id": 24,
+    "question": "Apa itu `const` dalam C++?",
+    "options": [
+      "Untuk mendeklarasikan nilai konstan",
+      "Untuk mendeklarasikan fungsi",
+      "Untuk mendeklarasikan pointer",
+      "Untuk mendeklarasikan kelas"
+    ],
+    "answer": "Untuk mendeklarasikan nilai konstan"
+  },
+  {
+    "id": 25,
+    "question": "Apa perbedaan antara `=` dan `==` dalam C++?",
+    "options": [
+      "`=` untuk assignment, `==` untuk perbandingan",
+      "`=` untuk perbandingan, `==` untuk assignment",
+      "`=` dan `==` memiliki fungsi yang sama",
+      "`==` digunakan untuk memanggil fungsi"
+    ],
+    "answer": "`=` untuk assignment, `==` untuk perbandingan"
+  },
+  {
+    "id": 26,
+    "question": "Bagaimana cara menangani file di C++?",
+    "options": [
+      "Dengan fstream",
+      "Dengan filemanager",
+      "Dengan input-output stream",
+      "Dengan buffer"
+    ],
+    "answer": "Dengan fstream"
+  },
+  {
+    "id": 27,
+    "question": "Apa itu `void` dalam C++?",
+    "options": [
+      "Tipe data yang tidak mengembalikan nilai",
+      "Tipe data untuk string",
+      "Tipe data untuk karakter",
+      "Tipe data untuk integer"
+    ],
+    "answer": "Tipe data yang tidak mengembalikan nilai"
+  },
+  {
+    "id": 28,
+    "question": "Apa yang dimaksud dengan `this` pointer di C++?",
+    "options": [
+      "Menunjuk ke objek saat ini",
+      "Menunjuk ke kelas saat ini",
+      "Menunjuk ke fungsi saat ini",
+      "Menunjuk ke variabel saat ini"
+    ],
+    "answer": "Menunjuk ke objek saat ini"
+  },
+  {
+    "id": 29,
+    "question": "Bagaimana cara membuat komentar lebih dari satu baris di C++?",
+    "options": [
+      "/* Komentar */",
+      "// Komentar",
+      "/* Komentar",
+      "*/ Komentar */"
+    ],
+    "answer": "/* Komentar */"
+  },
+  {
+    "id": 30,
+    "question": "Apa yang dilakukan operator `*` di C++?",
+    "options": [
+      "Digunakan untuk perkalian",
+      "Digunakan untuk pembagian",
+      "Digunakan untuk pointer",
+      "Digunakan untuk penjumlahan"
+    ],
+    "answer": "Digunakan untuk perkalian"
+  },
+  {
+    "id": 31,
+    "question": "Bagaimana cara mendeklarasikan pointer di C++?",
+    "options": ["ptr int;", "int *ptr;", "pointer int;", "int ptr*;"],
+    "answer": "int *ptr;"
+  },
+  {
+    "id": 32,
+    "question": "Apa itu `nullptr` di C++?",
+    "options": [
+      "Nilai yang menunjukkan pointer tidak menunjuk ke objek manapun",
+      "Nilai untuk mendeklarasikan variabel kosong",
+      "Operator untuk mendeklarasikan tipe data",
+      "Objek yang berisi nilai null"
+    ],
+    "answer": "Nilai yang menunjukkan pointer tidak menunjuk ke objek manapun"
+  },
+  {
+    "id": 33,
+    "question": "Bagaimana cara membuat kelas di C++?",
+    "options": [
+      "NamaKelas class {}",
+      "struct NamaKelas {}",
+      "class NamaKelas {}",
+      "object NamaKelas {}"
+    ],
+    "answer": "class NamaKelas {}"
+  },
+  {
+    "id": 34,
+    "question": "Apa itu `public` dalam C++?",
+    "options": [
+      "Tipe data untuk mendeklarasikan fungsi",
+      "Modifikator akses untuk anggota kelas yang dapat diakses di luar kelas",
+      "Menandakan variabel adalah konstanta",
+      "Operator untuk menentukan nilai objek"
+    ],
+    "answer": "Modifikator akses untuk anggota kelas yang dapat diakses di luar kelas"
+  },
+  {
+    "id": 35,
+    "question": "Apa itu `private` dalam C++?",
+    "options": [
+      "Fungsi untuk mendeklarasikan konstanta",
+      "Modifikator untuk mendeklarasikan variabel global",
+      "Modifikator akses untuk anggota kelas yang hanya bisa diakses dalam kelas",
+      "Struktur data untuk array"
+    ],
+    "answer": "Modifikator akses untuk anggota kelas yang hanya bisa diakses dalam kelas"
+  },
+  {
+    "id": 36,
+    "question": "Bagaimana cara menggunakan konstruktor di C++?",
+    "options": [
+      "NamaKelas() : {}",
+      "NamaKelas { }",
+      "NamaKelas() {}",
+      "function NamaKelas() {}"
+    ],
+    "answer": "NamaKelas() {}"
+  },
+  {
+    "id": 37,
+    "question": "Apa itu operator `->` dalam C++?",
+    "options": [
+      "Operator untuk mengalikan angka",
+      "Digunakan untuk mengakses anggota objek melalui pointer",
+      "Operator untuk membandingkan nilai dua variabel",
+      "Operator untuk operasi logika"
+    ],
+    "answer": "Digunakan untuk mengakses anggota objek melalui pointer"
+  },
+  {
+    "id": 38,
+    "question": "Apa itu `virtual` di C++?",
+    "options": [
+      "Menandakan bahwa objek tidak bisa dimodifikasi",
+      "Menandakan fungsi yang dapat dioverride oleh kelas turunan",
+      "Tipe data untuk variabel objek",
+      "Operator untuk melakukan perulangan"
+    ],
+    "answer": "Menandakan fungsi yang dapat dioverride oleh kelas turunan"
+  },
+  {
+    "id": 39,
+    "question": "Apa itu destructor di C++?",
+    "options": [
+      "Fungsi yang dijalankan saat objek dihapus",
+      "Fungsi untuk mendeklarasikan pointer",
+      "Fungsi yang dijalankan saat objek dibuat",
+      "Fungsi untuk menginisialisasi variabel"
+    ],
+    "answer": "Fungsi yang dijalankan saat objek dihapus"
+  },
+  {
+    "id": 40,
+    "question": "Bagaimana cara mengalokasikan memori dinamis di C++?",
+    "options": ["malloc", "new", "alloc", "calloc"],
+    "answer": "new"
+  },
+  {
+    "id": 41,
+    "question": "Apa itu `delete` di C++?",
+    "options": [
+      "Digunakan untuk membebaskan memori yang dialokasikan dengan `new`",
+      "Digunakan untuk mendeklarasikan variabel",
+      "Digunakan untuk menghapus elemen array",
+      "Digunakan untuk menghentikan program"
+    ],
+    "answer": "Digunakan untuk membebaskan memori yang dialokasikan dengan `new`"
+  },
+  {
+    "id": 42,
+    "question": "Bagaimana cara menggunakan `for` loop di C++?",
+    "options": [
+      "while i < 5 {}",
+      "for i in range(5) {}",
+      "for (int i = 0; i < 5; i++) {}",
+      "repeat until i == 5"
+    ],
+    "answer": "for (int i = 0; i < 5; i++) {}"
+  },
+  {
+    "id": 43,
+    "question": "Apa itu `static` di C++?",
+    "options": [
+      "Menandakan variabel atau fungsi yang tidak dapat diubah setelah dideklarasikan",
+      "Menandakan variabel adalah pointer",
+      "Tipe data untuk variabel numerik",
+      "Menandakan kelas tidak dapat dimodifikasi"
+    ],
+    "answer": "Menandakan variabel atau fungsi yang tidak dapat diubah setelah dideklarasikan"
+  },
+  {
+    "id": 44,
+    "question": "Apa itu `friend` di C++?",
+    "options": [
+      "Tipe data untuk menyimpan nilai boolean",
+      "Fungsi untuk mendeklarasikan objek",
+      "Fungsi atau kelas yang dapat mengakses anggota kelas lain yang bersifat private",
+      "Modifikator untuk menyembunyikan variabel"
+    ],
+    "answer": "Fungsi atau kelas yang dapat mengakses anggota kelas lain yang bersifat private"
+  },
+  {
+    "id": 45,
+    "question": "Apa itu `namespace` di C++?",
+    "options": [
+      "Operator untuk manipulasi data",
+      "Modifikator untuk tipe data",
+      "Fungsi untuk mendeklarasikan objek",
+      "Tempat untuk mengelompokkan kelas, fungsi, atau variabel agar tidak terjadi bentrok nama"
+    ],
+    "answer": "Tempat untuk mengelompokkan kelas, fungsi, atau variabel agar tidak terjadi bentrok nama"
+  },
+  {
+    "id": 46,
+    "question": "Bagaimana cara mendeklarasikan konstanta di C++?",
+    "options": [
+      "#define x 5",
+      "int const x = 5;",
+      "const int x = 5;",
+      "static int x = 5;"
+    ],
+    "answer": "const int x = 5;"
+  },
+  {
+    "id": 47,
+    "question": "Apa itu `sizeof` di C++?",
+    "options": [
+      "Fungsi untuk menghitung panjang array",
+      "Operator untuk mendapatkan ukuran tipe data atau objek dalam byte",
+      "Operator untuk menghitung nilai maksimal",
+      "Fungsi untuk mendeklarasikan tipe data"
+    ],
+    "answer": "Operator untuk mendapatkan ukuran tipe data atau objek dalam byte"
+  },
+  {
+    "id": 48,
+    "question": "Apa itu `template` di C++?",
+    "options": [
+      "Tipe data untuk variabel array",
+      "Modifikator untuk akses objek",
+      "Fungsi atau kelas yang dapat bekerja dengan berbagai tipe data",
+      "Fungsi untuk menghitung hasil operasi matematika"
+    ],
+    "answer": "Fungsi atau kelas yang dapat bekerja dengan berbagai tipe data"
+  },
+  {
+    "id": 49,
+    "question": "Bagaimana cara menghindari terjadinya memory leak di C++?",
+    "options": [
+      "Dengan menghindari penggunaan objek",
+      "Dengan selalu membebaskan memori menggunakan `delete`",
+      "Dengan menggunakan pointer",
+      "Dengan menggunakan stack daripada heap"
+    ],
+    "answer": "Dengan selalu membebaskan memori menggunakan `delete`"
+  },
+  {
+    "id": 50,
+    "question": "Bagaimana cara mendeklarasikan fungsi dengan parameter default di C++?",
+    "options": [
+      "void func(int x = 5) {}",
+      "func(int x = 5) void {}",
+      "void func = 5(int x) {}",
+      "void func(int x) = 5 {}"
+    ],
+    "answer": "void func(int x = 5) {}"
+  }
+]

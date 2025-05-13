@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Sebuah partikel bergerak dengan persamaan posisi x(t) = 3t³ - 4t² + 2t - 5, di mana x dalam meter dan t dalam detik. Berapakah percepatan partikel pada saat t = 2 detik?",
+    "options": ["12 m/s²", "18 m/s²", "24 m/s²", "36 m/s²"],
+    "answer": "18 m/s²"
+  },
+  {
+    "id": 2,
+    "question": "Sebuah bola dilempar vertikal ke atas dengan kecepatan awal 25 m/s dari ketinggian 10 m di atas tanah. Jika percepatan gravitasi g = 10 m/s², berapa waktu yang diperlukan bola untuk mencapai tanah?",
+    "options": ["3,0 detik", "3,5 detik", "4,0 detik", "5,0 detik"],
+    "answer": "3,5 detik"
+  },
+  {
+    "id": 3,
+    "question": "Dua benda bermassa m₁ = 3 kg dan m₂ = 5 kg dihubungkan dengan tali dan diletakkan pada bidang miring tanpa gesekan dengan sudut 30° terhadap horizontal. Berapakah percepatan sistem?",
+    "options": ["3,0 m/s²", "4,0 m/s²", "4,9 m/s²", "5,0 m/s²"],
+    "answer": "4,9 m/s²"
+  },
+  {
+    "id": 4,
+    "question": "Sebuah pegas dengan konstanta k = 200 N/m dimampatkan sejauh 10 cm dari posisi setimbangnya dan dilepaskan dari keadaan diam. Jika massa beban pada pegas adalah 2 kg, berapakah frekuensi osilasi yang terjadi?",
+    "options": ["1,59 Hz", "2,25 Hz", "3,14 Hz", "5,03 Hz"],
+    "answer": "1,59 Hz"
+  },
+  {
+    "id": 5,
+    "question": "Sebuah partikel bergerak melingkar dengan jari-jari 0,5 m dan kecepatan sudut awal 2 rad/s. Jika partikel mengalami percepatan sudut 3 rad/s², berapakah kecepatan linear partikel setelah 4 detik?",
+    "options": ["7 m/s", "8 m/s", "9 m/s", "10 m/s"],
+    "answer": "8 m/s"
+  },
+  {
+    "id": 6,
+    "question": "Sebuah balok bermassa 2 kg bergerak pada bidang datar kasar dengan koefisien gesekan kinetik μₖ = 0,3. Jika kecepatan awal balok 10 m/s, berapa jarak yang ditempuh balok hingga berhenti?",
+    "options": ["16,7 m", "17,0 m", "17,5 m", "18,0 m"],
+    "answer": "17,0 m"
+  },
+  {
+    "id": 7,
+    "question": "Momen inersia sebuah silinder pejal bermassa M dan jari-jari R terhadap sumbu putar di tengah silinder adalah...",
+    "options": ["MR²/2", "MR²", "MR²/4", "MR²/3"],
+    "answer": "MR²/2"
+  },
+  {
+    "id": 8,
+    "question": "Fluida bermassa jenis 800 kg/m³ mengalir dalam pipa dengan diameter berubah dari 5 cm menjadi 3 cm. Jika kecepatan aliran pada pipa besar adalah 2 m/s, berapakah perbedaan tekanan antara kedua penampang pipa?",
+    "options": ["1280 Pa", "2240 Pa", "2560 Pa", "3840 Pa"],
+    "answer": "2560 Pa"
+  },
+  {
+    "id": 9,
+    "question": "Sebuah mesin Carnot bekerja di antara suhu 500 K dan 300 K. Berapakah efisiensi mesin tersebut?",
+    "options": ["30%", "40%", "50%", "60%"],
+    "answer": "40%"
+  },
+  {
+    "id": 10,
+    "question": "Dua muatan listrik q₁ = 3μC dan q₂ = -2μC dipisahkan sejauh 20 cm. Tentukan kuat medan listrik pada titik yang berjarak 12 cm dari q₁ dan 8 cm dari q₂!",
+    "options": [
+      "5,4 × 10⁵ N/C",
+      "6,0 × 10⁵ N/C",
+      "6,8 × 10⁵ N/C",
+      "7,5 × 10⁵ N/C"
+    ],
+    "answer": "6,8 × 10⁵ N/C"
+  },
+  {
+    "id": 11,
+    "question": "Sebuah elektron bergerak dengan kecepatan 2 × 10⁶ m/s membentuk sudut 30° terhadap medan magnet homogen 0,1 T. Berapakah jari-jari lintasan spiral elektron? (massa elektron = 9,1 × 10⁻³¹ kg, muatan elektron = 1,6 × 10⁻¹⁹ C)",
+    "options": ["6,0 × 10⁻⁵ m", "1,0 × 10⁻⁴ m", "1,1 × 10⁻⁴ m", "1,2 × 10⁻⁴ m"],
+    "answer": "1,1 × 10⁻⁴ m"
+  },
+  {
+    "id": 12,
+    "question": "Dua keping konduktor sejajar dipisahkan sejauh 5 mm dan dihubungkan dengan beda potensial 100 V. Berapakah energi potensial yang dimiliki elektron (muatan = 1,6 × 10⁻¹⁹ C) yang berada di antara keping tersebut?",
+    "options": [
+      "8,0 × 10⁻¹⁷ J",
+      "1,0 × 10⁻¹⁷ J",
+      "1,6 × 10⁻¹⁷ J",
+      "3,2 × 10⁻¹⁷ J"
+    ],
+    "answer": "1,6 × 10⁻¹⁷ J"
+  },
+  {
+    "id": 13,
+    "question": "Sebuah rangkaian RLC seri dengan R = 10 Ω, L = 0,1 H, dan C = 10⁻⁵ F dihubungkan dengan sumber tegangan AC 220 V. Berapakah impedansi rangkaian pada frekuensi resonansi?",
+    "options": ["0 Ω", "10 Ω", "15 Ω", "20 Ω"],
+    "answer": "10 Ω"
+  },
+  {
+    "id": 14,
+    "question": "Gelombang berjalan memiliki persamaan y(x,t) = 0,05 sin(2π(x/2 - t/0,5)) dengan x dan y dalam meter dan t dalam detik. Berapakah panjang gelombang dan frekuensi gelombang tersebut?",
+    "options": [
+      "2 m dan 2 Hz",
+      "2 m dan 0,5 Hz",
+      "0,5 m dan 2 Hz",
+      "4 m dan 2 Hz"
+    ],
+    "answer": "2 m dan 2 Hz"
+  },
+  {
+    "id": 15,
+    "question": "Dua celah yang terpisah sejauh 0,1 mm disinari dengan cahaya monokromatik sehingga menghasilkan pola interferensi pada layar berjarak 1 m. Jika jarak antara terang pertama dan terang pusat adalah 5 mm, berapakah panjang gelombang cahaya yang digunakan?",
+    "options": ["450 nm", "500 nm", "550 nm", "600 nm"],
+    "answer": "500 nm"
+  },
+  {
+    "id": 16,
+    "question": "Sebuah gas ideal menjalani proses isobarik pada tekanan 3 × 10⁵ Pa dari volume 2 L menjadi 5 L. Berapakah usaha yang dilakukan oleh gas?",
+    "options": ["600 J", "800 J", "900 J", "1000 J"],
+    "answer": "900 J"
+  },
+  {
+    "id": 17,
+    "question": "Kapasitor dengan kapasitansi 5 μF dihubungkan dengan sumber tegangan 12 V. Berapakah energi yang tersimpan dalam kapasitor?",
+    "options": ["0,36 mJ", "3,6 mJ", "36 mJ", "360 mJ"],
+    "answer": "360 mJ"
+  },
+  {
+    "id": 18,
+    "question": "Sebuah benda bermassa 2 kg terikat pada pegas horizontal dengan konstanta 50 N/m dan mengalami redaman dengan koefisien 4 kg/s. Berapakah frekuensi osilasi teredam sistem ini?",
+    "options": ["1,50 Hz", "1,52 Hz", "1,54 Hz", "1,56 Hz"],
+    "answer": "1,52 Hz"
+  },
+  {
+    "id": 19,
+    "question": "Intensitas bunyi di suatu titik adalah 10⁻⁶ W/m². Jika intensitas ambang pendengaran adalah 10⁻¹² W/m², berapakah taraf intensitas bunyi tersebut?",
+    "options": ["40 dB", "50 dB", "60 dB", "70 dB"],
+    "answer": "60 dB"
+  },
+  {
+    "id": 20,
+    "question": "Sebuah partikel bergerak dengan energi kinetik 6 MeV mendekati inti atom bermassa 200 u. Berapakah jarak terdekat partikel ke inti jika energi potensial elektrostatis pada jarak tersebut sama dengan energi kinetik awal partikel?",
+    "options": [
+      "2,4 × 10⁻¹⁴ m",
+      "1,2 × 10⁻¹⁴ m",
+      "4,8 × 10⁻¹⁵ m",
+      "9,6 × 10⁻¹⁵ m"
+    ],
+    "answer": "2,4 × 10⁻¹⁴ m"
+  },
+  {
+    "id": 21,
+    "question": "Sebuah elektron melakukan transisi dari tingkat energi n = 3 ke n = 2 dalam atom hidrogen. Berapakah panjang gelombang foton yang dipancarkan? (Energi ionisasi atom hidrogen = 13,6 eV)",
+    "options": ["434 nm", "486 nm", "656 nm", "1875 nm"],
+    "answer": "656 nm"
+  },
+  {
+    "id": 22,
+    "question": "Sebuah benda bergerak dengan momentum sudut awal L₀. Jika benda mengalami gaya sehingga momennya M = αt (α konstan), berapakah momentum sudut benda setelah waktu t?",
+    "options": ["L₀ + αt", "L₀ + αt²", "L₀ + αt²/2", "L₀ + 2αt"],
+    "answer": "L₀ + αt²/2"
+  },
+  {
+    "id": 23,
+    "question": "Menurut teori relativitas khusus, massa sebuah partikel yang bergerak dengan kecepatan 0,8c relatif terhadap pengamat adalah 1,67 kali massa diamnya. Berapakah nilai c?",
+    "options": [
+      "3,0 × 10⁸ m/s",
+      "2,0 × 10⁸ m/s",
+      "2,5 × 10⁸ m/s",
+      "1,5 × 10⁸ m/s"
+    ],
+    "answer": "3,0 × 10⁸ m/s"
+  },
+  {
+    "id": 24,
+    "question": "Sebuah bola dengan diameter 10 cm dan massa jenis 800 kg/m³ mengapung di air (massa jenis 1000 kg/m³). Berapakah volume bola yang terendam dalam air?",
+    "options": ["330 cm³", "420 cm³", "523,6 cm³", "418,9 cm³"],
+    "answer": "418,9 cm³"
+  },
+  {
+    "id": 25,
+    "question": "Dua kawat lurus sejajar masing-masing dialiri arus 5 A dan 10 A dengan arah yang sama. Jika jarak antara kedua kawat adalah 20 cm, berapakah gaya per meter yang dialami oleh masing-masing kawat? (μ₀ = 4π × 10⁻⁷ H/m)",
+    "options": [
+      "2,5 × 10⁻⁵ N/m",
+      "5,0 × 10⁻⁵ N/m",
+      "7,5 × 10⁻⁵ N/m",
+      "10,0 × 10⁻⁵ N/m"
+    ],
+    "answer": "5,0 × 10⁻⁵ N/m"
+  }
+]

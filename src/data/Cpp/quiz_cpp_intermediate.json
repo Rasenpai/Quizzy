@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "question": "Apa output dari kode berikut?\n\n```cpp\nint a = 10, b = 5;\ncout << a / b;\n```",
+    "options": ["2", "1", "0", "5"],
+    "answer": "2"
+  },
+  {
+    "id": 2,
+    "question": "Apa yang terjadi jika kamu mencoba mendereference pointer yang null?\n\n```cpp\nint* ptr = nullptr;\ncout << *ptr;\n```",
+    "options": [
+      "Segmentation fault",
+      "Null pointer exception",
+      "Perilaku tak terdefinisi",
+      "Kesalahan kompilasi"
+    ],
+    "answer": "Segmentation fault"
+  },
+  {
+    "id": 3,
+    "question": "Mana yang digunakan untuk alokasi memori dinamis di C++?",
+    "options": ["malloc()", "alloc()", "new", "calloc()"],
+    "answer": "new"
+  },
+  {
+    "id": 4,
+    "question": "Apa sintaks yang benar untuk mendefinisikan sebuah kelas di C++?",
+    "options": [
+      "class ClassName { };",
+      "class ClassName[];",
+      "Class className;",
+      "class ClassName: public { };"
+    ],
+    "answer": "class ClassName { };"
+  },
+  {
+    "id": 5,
+    "question": "Apa output dari kode berikut?\n\n```cpp\nint a = 5;\nint b = 2;\ncout << a % b;\n```",
+    "options": ["1", "2", "0", "3"],
+    "answer": "1"
+  },
+  {
+    "id": 6,
+    "question": "Operator manakah yang digunakan untuk mengakses anggota kelas melalui pointer ke kelas?",
+    "options": ["::", ".", "->", "*"],
+    "answer": "->"
+  },
+  {
+    "id": 7,
+    "question": "Mana sintaks yang benar untuk mendefinisikan sebuah konstruktor di C++?",
+    "options": [
+      "Constructor::Constructor() {}",
+      "Constructor() {}",
+      "Constructor() : {}",
+      "class Constructor { }"
+    ],
+    "answer": "Constructor() {}"
+  },
+  {
+    "id": 8,
+    "question": "Apa nilai default dari variabel statis yang belum diinisialisasi di C++?",
+    "options": ["Tak terdefinisi", "0", "NULL", "Nilai sampah"],
+    "answer": "0"
+  },
+  {
+    "id": 9,
+    "question": "Keyword manakah yang digunakan untuk mencegah fungsi dari di-override di kelas turunan?",
+    "options": ["override", "private", "sealed", "final"],
+    "answer": "final"
+  },
+  {
+    "id": 10,
+    "question": "Bagaimana cara mendeklarasikan sebuah pointer ke sebuah objek di C++?",
+    "options": [
+      "Object* ptr;",
+      "Object* ptr = nullptr;",
+      "Object* ptr = new Object();",
+      "Object ptr;"
+    ],
+    "answer": "Object* ptr;"
+  },
+  {
+    "id": 11,
+    "question": "Apa yang terjadi jika kamu mencoba untuk mengakses elemen di luar indeks array?",
+    "options": [
+      "Segmentation fault",
+      "Tidak terjadi apa-apa",
+      "Muncul nilai nol",
+      "Out of bounds error"
+    ],
+    "answer": "Segmentation fault"
+  },
+  {
+    "id": 12,
+    "question": "Manakah dari berikut ini yang tidak dapat digunakan sebagai tipe data di C++?",
+    "options": ["list", "string", "int", "char"],
+    "answer": "list"
+  },
+  {
+    "id": 13,
+    "question": "Apakah fungsi dari keyword 'virtual' dalam C++?",
+    "options": [
+      "Untuk mendeklarasikan kelas",
+      "Untuk mengalokasikan memori dinamis",
+      "Untuk fungsi yang bisa dioverride",
+      "Untuk mendeklarasikan variabel"
+    ],
+    "answer": "Untuk fungsi yang bisa dioverride"
+  },
+  {
+    "id": 14,
+    "question": "Mana yang benar mengenai operator 'new' di C++?",
+    "options": [
+      "Menangani error",
+      "Digunakan untuk alokasi memori statis",
+      "Digunakan untuk alokasi memori dinamis",
+      "Mempercepat proses kompilasi"
+    ],
+    "answer": "Digunakan untuk alokasi memori dinamis"
+  },
+  {
+    "id": 15,
+    "question": "Bagaimana cara mendeklarasikan sebuah fungsi yang menerima parameter pointer ke fungsi lain?",
+    "options": [
+      "void (*func)(int);",
+      "void func(int*);",
+      "void func(int func*);",
+      "void (*func(int))(int);"
+    ],
+    "answer": "void (*func)(int);"
+  },
+  {
+    "id": 16,
+    "question": "Apa hasil dari kode berikut?\n\n```cpp\nint x = 10;\nint* ptr = &x;\ncout << *ptr;\n```",
+    "options": ["Alamat memori x", "Segmentation fault", "NULL", "10"],
+    "answer": "10"
+  },
+  {
+    "id": 17,
+    "question": "Apa tujuan dari penggunaan header file di C++?",
+    "options": [
+      "Untuk mengorganisir kode",
+      "Untuk mempercepat eksekusi",
+      "Untuk mengalokasikan memori",
+      "Untuk mendeklarasikan fungsi"
+    ],
+    "answer": "Untuk mengorganisir kode"
+  },
+  {
+    "id": 18,
+    "question": "Mana yang benar mengenai penggunaan pointer di C++?",
+    "options": [
+      "Pointer dapat menunjuk ke objek yang tidak valid",
+      "Pointer tidak perlu diinisialisasi",
+      "Pointer selalu mengarah ke memori statis",
+      "Pointer tidak dapat digunakan dalam fungsi"
+    ],
+    "answer": "Pointer dapat menunjuk ke objek yang tidak valid"
+  },
+  {
+    "id": 19,
+    "question": "Bagaimana cara mendeklarasikan sebuah array dua dimensi di C++?",
+    "options": [
+      "int arr[5][5];",
+      "int arr[5];[5];",
+      "int arr[][];",
+      "int[5][5] arr;"
+    ],
+    "answer": "int arr[5][5];"
+  },
+  {
+    "id": 20,
+    "question": "Apa yang terjadi jika kamu mencoba untuk mengakses memori yang sudah di-deallocate dengan 'delete'?",
+    "options": [
+      "Segmentation fault",
+      "Tidak terjadi apa-apa",
+      "Error di compile",
+      "Undefined behavior"
+    ],
+    "answer": "Segmentation fault"
+  },
+  {
+    "id": 21,
+    "question": "Apa yang dimaksud dengan 'pointer to pointer' di C++?",
+    "options": [
+      "Pointer yang menunjuk ke tipe data lain",
+      "Pointer yang menunjuk ke alamat pointer lain",
+      "Pointer yang menunjuk ke fungsi",
+      "Pointer yang menunjuk ke alamat variabel"
+    ],
+    "answer": "Pointer yang menunjuk ke alamat pointer lain"
+  },
+  {
+    "id": 22,
+    "question": "Manakah yang benar mengenai destructors di C++?",
+    "options": [
+      "Destructors digunakan untuk mengalokasikan memori",
+      "Destructors dipanggil otomatis ketika objek keluar dari scope",
+      "Destructors selalu mengembalikan nilai",
+      "Destructors digunakan untuk mendeklarasikan kelas"
+    ],
+    "answer": "Destructors dipanggil otomatis ketika objek keluar dari scope"
+  },
+  {
+    "id": 23,
+    "question": "Bagaimana cara mendeklarasikan operator overload di C++?",
+    "options": ["operator+()", "operator+()", "operator+{}()", "operator+{}"],
+    "answer": "operator+()"
+  },
+  {
+    "id": 24,
+    "question": "Apa fungsi dari 'const' di depan parameter fungsi di C++?",
+    "options": [
+      "Untuk menjamin parameter tidak akan diubah dalam fungsi",
+      "Untuk menjamin bahwa parameter adalah pointer",
+      "Untuk mendeklarasikan parameter sebagai referensi",
+      "Untuk mendeklarasikan parameter sebagai tipe data"
+    ],
+    "answer": "Untuk menjamin parameter tidak akan diubah dalam fungsi"
+  },
+  {
+    "id": 25,
+    "question": "Bagaimana cara mendeklarasikan variabel dengan tipe data pointer ke array di C++?",
+    "options": ["int* arr[];", "int arr*[];", "int[]* arr;", "int* arr[10];"],
+    "answer": "int* arr[10];"
+  },
+  {
+    "id": 26,
+    "question": "Apa perbedaan antara 'new' dan 'malloc' di C++?",
+    "options": [
+      "new mengalokasikan memori sementara, malloc mengalokasikan memori dinamis",
+      "new mengalokasikan memori dinamis, malloc tidak",
+      "new otomatis memanggil konstruktor, malloc tidak",
+      "new digunakan di C, malloc di C++"
+    ],
+    "answer": "new otomatis memanggil konstruktor, malloc tidak"
+  },
+  {
+    "id": 27,
+    "question": "Apa fungsi dari 'friend' di C++?",
+    "options": [
+      "Untuk memberikan akses privat ke fungsi lain",
+      "Untuk mengakses anggota private dari kelas lain",
+      "Untuk mengakses anggota protected dari kelas lain",
+      "Untuk mendeklarasikan fungsi global"
+    ],
+    "answer": "Untuk mengakses anggota private dari kelas lain"
+  },
+  {
+    "id": 28,
+    "question": "Apa hasil dari kode berikut?\n\n```cpp\nint x = 5;\ncout << x++ << ' ' << ++x;\n```",
+    "options": ["5 7", "5 6", "6 7", "6 5"],
+    "answer": "5 7"
+  },
+  {
+    "id": 29,
+    "question": "Manakah yang benar mengenai penggunaan 'namespace' di C++?",
+    "options": [
+      "Namespace digunakan untuk mendeklarasikan variabel global",
+      "Namespace digunakan untuk menghindari bentrok nama dalam program",
+      "Namespace hanya digunakan dalam file header",
+      "Namespace tidak dapat memiliki fungsi"
+    ],
+    "answer": "Namespace digunakan untuk menghindari bentrok nama dalam program"
+  },
+  {
+    "id": 30,
+    "question": "Bagaimana cara mendeklarasikan fungsi virtual di C++?",
+    "options": [
+      "virtual void function();",
+      "void virtual function();",
+      "virtual function();",
+      "void function() virtual;"
+    ],
+    "answer": "virtual void function();"
+  },
+  {
+    "id": 31,
+    "question": "Apa output dari kode berikut?\n\n```cpp\nint arr[] = {1, 2, 3};\ncout << arr[2];\n```",
+    "options": ["3", "2", "1", "Tidak ada output"],
+    "answer": "3"
+  },
+  {
+    "id": 32,
+    "question": "Apa itu template di C++?",
+    "options": [
+      "Template digunakan untuk mendeklarasikan fungsi template",
+      "Template digunakan untuk mendeklarasikan kelas dan fungsi generik",
+      "Template hanya digunakan dalam fungsi",
+      "Template digunakan untuk mendeklarasikan objek"
+    ],
+    "answer": "Template digunakan untuk mendeklarasikan kelas dan fungsi generik"
+  },
+  {
+    "id": 33,
+    "question": "Apa yang dimaksud dengan recursive function di C++?",
+    "options": [
+      "Fungsi yang memanggil dirinya sendiri",
+      "Fungsi yang memanggil fungsi lain",
+      "Fungsi yang di-declare dalam kelas",
+      "Fungsi yang memiliki variabel static"
+    ],
+    "answer": "Fungsi yang memanggil dirinya sendiri"
+  },
+  {
+    "id": 34,
+    "question": "Apa hasil dari kode berikut?\n\n```cpp\nint x = 5;\nint y = 3;\ncout << x / y;\n```",
+    "options": ["1", "2", "0", "3"],
+    "answer": "1"
+  },
+  {
+    "id": 35,
+    "question": "Apa fungsi dari 'static_cast' di C++?",
+    "options": [
+      "Untuk melakukan casting tipe data dengan pengecekan waktu kompilasi",
+      "Untuk mengalokasikan memori secara dinamis",
+      "Untuk mendeklarasikan tipe data statis",
+      "Untuk mengubah tipe data secara otomatis"
+    ],
+    "answer": "Untuk melakukan casting tipe data dengan pengecekan waktu kompilasi"
+  },
+  {
+    "id": 36,
+    "question": "Bagaimana cara mendeklarasikan array 2 dimensi di C++?",
+    "options": [
+      "int arr[3][4];",
+      "int[3][4] arr;",
+      "int arr[][4];",
+      "int arr[4][3];"
+    ],
+    "answer": "int arr[3][4];"
+  },
+  {
+    "id": 37,
+    "question": "Apa output dari kode berikut?\n\n```cpp\nint x = 10;\nint* ptr = &x;\ncout << *ptr;\n```",
+    "options": ["10", "Alamat memori x", "NULL", "Segmentation fault"],
+    "answer": "10"
+  },
+  {
+    "id": 38,
+    "question": "Apa yang dimaksud dengan 'multiple inheritance' di C++?",
+    "options": [
+      "Sebuah kelas mewarisi dari satu kelas dasar",
+      "Sebuah kelas mewarisi dari beberapa kelas dasar",
+      "Sebuah kelas diwariskan dari objek",
+      "Sebuah kelas diwariskan secara otomatis"
+    ],
+    "answer": "Sebuah kelas mewarisi dari beberapa kelas dasar"
+  },
+  {
+    "id": 39,
+    "question": "Apa yang dimaksud dengan 'destructor' di C++?",
+    "options": [
+      "Fungsi yang dipanggil ketika objek keluar dari scope",
+      "Fungsi yang menginisialisasi objek",
+      "Fungsi untuk alokasi memori",
+      "Fungsi untuk melakukan pengolahan data"
+    ],
+    "answer": "Fungsi yang dipanggil ketika objek keluar dari scope"
+  },
+  {
+    "id": 40,
+    "question": "Apa hasil dari kode berikut?\n\n```cpp\nint x = 3;\ncout << ++x * 2;\n```",
+    "options": ["6", "4", "8", "7"],
+    "answer": "8"
+  },
+  {
+    "id": 41,
+    "question": "Manakah dari berikut yang merupakan teknik penanganan error di C++?",
+    "options": ["throw", "try", "catch", "Semua jawaban benar"],
+    "answer": "Semua jawaban benar"
+  },
+  {
+    "id": 42,
+    "question": "Bagaimana cara mendeklarasikan referensi di C++?",
+    "options": ["int& x;", "int* x;", "int& x[];", "int x;"],
+    "answer": "int& x;"
+  },
+  {
+    "id": 43,
+    "question": "Apa yang dilakukan oleh keyword 'explicit' di C++?",
+    "options": [
+      "Mencegah konversi otomatis dari tipe data",
+      "Menyatakan variabel sebagai konstant",
+      "Menyatakan fungsi sebagai virtual",
+      "Membatasi penggunaan template"
+    ],
+    "answer": "Mencegah konversi otomatis dari tipe data"
+  },
+  {
+    "id": 44,
+    "question": "Bagaimana cara mendeklarasikan variabel static di dalam fungsi C++?",
+    "options": [
+      "static int x;",
+      "int static x;",
+      "static x int;",
+      "x int static;"
+    ],
+    "answer": "static int x;"
+  },
+  {
+    "id": 45,
+    "question": "Bagaimana cara mendeklarasikan array statis di C++?",
+    "options": ["int arr[5];", "int[5] arr;", "arr[5] int;", "int arr[];"],
+    "answer": "int arr[5];"
+  },
+  {
+    "id": 46,
+    "question": "Apa yang dimaksud dengan 'function overloading' di C++?",
+    "options": [
+      "Mendeklarasikan banyak fungsi dengan nama yang sama tetapi parameter yang berbeda",
+      "Mendeklarasikan fungsi di dalam fungsi lain",
+      "Menggunakan fungsi yang sama untuk banyak tipe data",
+      "Menggunakan pointer dalam fungsi"
+    ],
+    "answer": "Mendeklarasikan banyak fungsi dengan nama yang sama tetapi parameter yang berbeda"
+  },
+  {
+    "id": 47,
+    "question": "Apa perbedaan antara '== ' dan '=' di C++?",
+    "options": [
+      "'==' digunakan untuk perbandingan, '=' untuk penugasan",
+      "'==' digunakan untuk penugasan, '=' untuk perbandingan",
+      "'==' untuk fungsi, '=' untuk variabel",
+      "Tidak ada perbedaan"
+    ],
+    "answer": "'==' digunakan untuk perbandingan, '=' untuk penugasan"
+  },
+  {
+    "id": 48,
+    "question": "Manakah yang benar mengenai konsep destruktif dalam pemrograman?",
+    "options": [
+      "Destruktor disebut saat objek keluar dari scope",
+      "Destruktor digunakan untuk mencegah kesalahan runtime",
+      "Destruktor mengalokasikan memori untuk objek",
+      "Destruktor dapat mengembalikan nilai"
+    ],
+    "answer": "Destruktor disebut saat objek keluar dari scope"
+  },
+  {
+    "id": 49,
+    "question": "Bagaimana cara mengakses anggota kelas di C++?",
+    "options": [
+      "Menggunakan tanda titik (.)",
+      "Menggunakan tanda panah (->)",
+      "Keduanya benar",
+      "Tidak ada yang benar"
+    ],
+    "answer": "Keduanya benar"
+  },
+  {
+    "id": 50,
+    "question": "Apa output dari kode berikut?\n\n```cpp\nint arr[5] = {1, 2, 3, 4, 5};\ncout << arr[3];\n```",
+    "options": ["5", "3", "4", "1"],
+    "answer": "4"
+  }
+]

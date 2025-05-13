@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Apa simbol kimia untuk air?",
+    "options": ["H2O", "O2", "CO2", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "id": 2,
+    "question": "Gas apa yang digunakan tumbuhan saat fotosintesis?",
+    "options": ["Oksigen", "Nitrogen", "Karbon Dioksida", "Hidrogen"],
+    "answer": "Karbon Dioksida"
+  },
+  {
+    "id": 3,
+    "question": "Berapakah nilai pH dari larutan netral?",
+    "options": ["0", "7", "14", "3"],
+    "answer": "7"
+  },
+  {
+    "id": 4,
+    "question": "Unsur apa yang memiliki nomor atom 1?",
+    "options": ["Helium", "Oksigen", "Hidrogen", "Karbon"],
+    "answer": "Hidrogen"
+  },
+  {
+    "id": 5,
+    "question": "NaCl dikenal sebagai apa dalam kehidupan sehari-hari?",
+    "options": ["Gula", "Garam", "Cuka", "Soda Kue"],
+    "answer": "Garam"
+  },
+  {
+    "id": 6,
+    "question": "Apa wujud oksigen pada suhu ruangan?",
+    "options": ["Padat", "Cair", "Gas", "Plasma"],
+    "answer": "Gas"
+  },
+  {
+    "id": 7,
+    "question": "Bagian mana dari atom yang mengandung proton dan neutron?",
+    "options": ["Kulit", "Orbit", "Inti", "Awan Elektron"],
+    "answer": "Inti"
+  },
+  {
+    "id": 8,
+    "question": "Yang mana bukan gas mulia?",
+    "options": ["Argon", "Helium", "Oksigen", "Neon"],
+    "answer": "Oksigen"
+  },
+  {
+    "id": 9,
+    "question": "Unsur apa yang digunakan dalam pensil?",
+    "options": ["Timbal", "Grafit", "Karbon", "Kapur"],
+    "answer": "Karbon"
+  },
+  {
+    "id": 10,
+    "question": "Jenis ikatan apa yang melibatkan berbagi elektron antar atom?",
+    "options": ["Ionik", "Kovalen", "Logam", "Hidrogen"],
+    "answer": "Kovalen"
+  },
+  {
+    "id": 11,
+    "question": "Manakah dari berikut ini adalah asam?",
+    "options": ["NaOH", "HCl", "KOH", "Ca(OH)2"],
+    "answer": "HCl"
+  },
+  {
+    "id": 12,
+    "question": "Manakah dari berikut ini adalah basa?",
+    "options": ["H2SO4", "CH3COOH", "NaOH", "HNO3"],
+    "answer": "NaOH"
+  },
+  {
+    "id": 13,
+    "question": "Ada berapa unsur di tabel periodik (per 2023)?",
+    "options": ["108", "118", "98", "128"],
+    "answer": "118"
+  },
+  {
+    "id": 14,
+    "question": "Partikel subatomik mana yang bermuatan negatif?",
+    "options": ["Proton", "Neutron", "Elektron", "Inti"],
+    "answer": "Elektron"
+  },
+  {
+    "id": 15,
+    "question": "Logam apa yang berwujud cair pada suhu ruangan?",
+    "options": ["Merkuri", "Besi", "Tembaga", "Aluminium"],
+    "answer": "Merkuri"
+  },
+  {
+    "id": 16,
+    "question": "Proses apa yang memisahkan garam dari air laut?",
+    "options": ["Filtrasi", "Distilasi", "Penguapan", "Kondensasi"],
+    "answer": "Penguapan"
+  },
+  {
+    "id": 17,
+    "question": "Gas apa yang menyebabkan efek rumah kaca?",
+    "options": ["Karbon Dioksida", "Oksigen", "Hidrogen", "Nitrogen"],
+    "answer": "Karbon Dioksida"
+  },
+  {
+    "id": 18,
+    "question": "Gas utama di atmosfer bumi adalah?",
+    "options": ["Oksigen", "Nitrogen", "Karbon Dioksida", "Hidrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 19,
+    "question": "Apa rumus kimia dari gula meja?",
+    "options": ["C6H12O6", "NaCl", "C12H22O11", "H2O2"],
+    "answer": "C12H22O11"
+  },
+  {
+    "id": 20,
+    "question": "Perkaratan besi adalah contoh reaksi apa?",
+    "options": ["Pembakaran", "Netralisasi", "Oksidasi", "Reduksi"],
+    "answer": "Oksidasi"
+  },
+  {
+    "id": 21,
+    "question": "Siapa ilmuwan yang membuat tabel periodik?",
+    "options": ["Newton", "Einstein", "Mendeleev", "Curie"],
+    "answer": "Mendeleev"
+  },
+  {
+    "id": 22,
+    "question": "Unsur apa yang paling ringan di tabel periodik?",
+    "options": ["Helium", "Oksigen", "Hidrogen", "Karbon"],
+    "answer": "Hidrogen"
+  },
+  {
+    "id": 23,
+    "question": "Gas apa yang digunakan untuk mengisi balon?",
+    "options": ["Hidrogen", "Oksigen", "Karbon Dioksida", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "id": 24,
+    "question": "Unsur apa yang penting untuk kekuatan tulang?",
+    "options": ["Besi", "Kalsium", "Natrium", "Kalium"],
+    "answer": "Kalsium"
+  },
+  {
+    "id": 25,
+    "question": "Berapakah titik didih air di permukaan laut?",
+    "options": ["0°C", "50°C", "100°C", "150°C"],
+    "answer": "100°C"
+  }
+]

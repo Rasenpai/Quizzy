@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "question": "Apa hasil dari kode berikut? `console.log(2 + '2')`",
+    "options": ["22", "4", "undefined", "NaN"],
+    "answer": "22"
+  },
+  {
+    "id": 2,
+    "question": "Apa yang akan terjadi jika kita mencoba mengakses variabel yang belum dideklarasikan?",
+    "options": ["ReferenceError", "SyntaxError", "null", "undefined"],
+    "answer": "ReferenceError"
+  },
+  {
+    "id": 3,
+    "question": "Manakah dari tipe data berikut yang bukan termasuk tipe data primitif di JavaScript?",
+    "options": ["String", "Number", "Object", "Boolean"],
+    "answer": "Object"
+  },
+  {
+    "id": 4,
+    "question": "Apa output dari kode berikut? `console.log(!!'hello')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 5,
+    "question": "Manakah yang benar tentang perbedaan antara `var`, `let`, dan `const`?",
+    "options": [
+      "`var` bisa dideklarasikan ulang, `let` bisa dideklarasikan ulang, dan `const` tidak bisa dideklarasikan ulang",
+      "`var` bisa dideklarasikan ulang, `let` tidak bisa dideklarasikan ulang, dan `const` tidak bisa dideklarasikan ulang",
+      "`var`, `let`, dan `const` semuanya bisa dideklarasikan ulang",
+      "`var` dan `let` memiliki scope global, dan `const` memiliki scope block"
+    ],
+    "answer": "`var` bisa dideklarasikan ulang, `let` bisa dideklarasikan ulang, dan `const` tidak bisa dideklarasikan ulang"
+  },
+  {
+    "id": 6,
+    "question": "Apa hasil dari kode berikut? `console.log(0 == false)`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 7,
+    "question": "Apa yang akan dikembalikan oleh fungsi berikut? `function test() { return 'Hello'; } console.log(test());`",
+    "options": ["'Hello'", "'undefined'", "'null'", "'test'"],
+    "answer": "'Hello'"
+  },
+  {
+    "id": 8,
+    "question": "Manakah dari pernyataan berikut yang benar tentang fungsi dalam JavaScript?",
+    "options": [
+      "Fungsi hanya dapat mengembalikan satu nilai",
+      "Fungsi tidak bisa memiliki parameter",
+      "Fungsi dapat memiliki parameter lebih dari satu",
+      "Fungsi hanya bisa dipanggil sekali dalam program"
+    ],
+    "answer": "Fungsi dapat memiliki parameter lebih dari satu"
+  },
+  {
+    "id": 9,
+    "question": "Bagaimana cara mendeklarasikan array di JavaScript?",
+    "options": ["var arr = ()", "var arr = {}", "var arr = []", "var arr = //"],
+    "answer": "var arr = []"
+  },
+  {
+    "id": 10,
+    "question": "Apa hasil dari kode berikut? `console.log(3 > 2 > 1)`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "false"
+  },
+  {
+    "id": 11,
+    "question": "Bagaimana cara menambahkan elemen ke dalam array di JavaScript?",
+    "options": ["arr.add(5)", "arr.push(5)", "arr.append(5)", "arr.insert(5)"],
+    "answer": "arr.push(5)"
+  },
+  {
+    "id": 12,
+    "question": "Apa output dari kode berikut? `console.log([] == [])`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "false"
+  },
+  {
+    "id": 13,
+    "question": "Apa yang dimaksud dengan hoisting dalam JavaScript?",
+    "options": [
+      "Pergerakan deklarasi variabel ke atas dalam kode sebelum eksekusi",
+      "Deklarasi fungsi harus berada di bagian bawah kode",
+      "Variabel tidak dapat dideklarasikan dua kali dalam satu block",
+      "Semua variabel harus dideklarasikan sebelum digunakan"
+    ],
+    "answer": "Pergerakan deklarasi variabel ke atas dalam kode sebelum eksekusi"
+  },
+  {
+    "id": 14,
+    "question": "Apa yang akan terjadi jika kita mencoba mengakses sebuah objek yang tidak ada dalam array?",
+    "options": ["null", "undefined", "NaN", "Error"],
+    "answer": "undefined"
+  },
+  {
+    "id": 15,
+    "question": "Apa yang dimaksud dengan callback function dalam JavaScript?",
+    "options": [
+      "Fungsi yang dipanggil secara otomatis tanpa parameter",
+      "Fungsi yang dipanggil setelah operasi asinkron selesai",
+      "Fungsi yang mengembalikan nilai boolean",
+      "Fungsi yang mengirimkan data ke API"
+    ],
+    "answer": "Fungsi yang dipanggil setelah operasi asinkron selesai"
+  },
+  {
+    "id": 16,
+    "question": "Apa hasil dari kode berikut? `console.log(1 + '1')`",
+    "options": ["2", "'11'", "NaN", "undefined"],
+    "answer": "'11'"
+  },
+  {
+    "id": 17,
+    "question": "Bagaimana cara menghapus elemen terakhir dalam array?",
+    "options": ["arr.remove()", "arr.pop()", "arr.delete()", "arr.shift()"],
+    "answer": "arr.pop()"
+  },
+  {
+    "id": 18,
+    "question": "Apa hasil dari kode berikut? `console.log(5 == '5')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 19,
+    "question": "Apa yang dimaksud dengan 'this' dalam JavaScript?",
+    "options": [
+      "Menunjuk pada elemen yang sedang diakses dalam HTML",
+      "Menunjuk pada objek tempat fungsi dipanggil",
+      "Menunjuk pada fungsi yang sedang dieksekusi",
+      "Menunjuk pada variabel yang sedang dideklarasikan"
+    ],
+    "answer": "Menunjuk pada objek tempat fungsi dipanggil"
+  },
+  {
+    "id": 20,
+    "question": "Apa output dari kode berikut? `console.log(5 === '5')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "false"
+  },
+  {
+    "id": 21,
+    "question": "Bagaimana cara mendeklarasikan sebuah objek di JavaScript?",
+    "options": [
+      "var obj = ()",
+      "var obj = {}",
+      "var obj = []",
+      "var obj = 'object'"
+    ],
+    "answer": "var obj = {}"
+  },
+  {
+    "id": 22,
+    "question": "Apa output dari kode berikut? `console.log(0 == '')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 23,
+    "question": "Apa yang dimaksud dengan event bubbling dalam JavaScript?",
+    "options": [
+      "Proses ketika event pada elemen terhubung ke elemen parent",
+      "Proses saat event terjadi pada child dan diteruskan ke elemen parent",
+      "Proses event yang diterima oleh elemen parent",
+      "Proses event hanya terjadi di child element"
+    ],
+    "answer": "Proses saat event terjadi pada child dan diteruskan ke elemen parent"
+  },
+  {
+    "id": 24,
+    "question": "Apa hasil dari kode berikut? `console.log([] == ![])`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 25,
+    "question": "Apa yang akan dikembalikan oleh fungsi berikut? `function test() { return null; } console.log(test());`",
+    "options": ["null", "undefined", "false", "0"],
+    "answer": "null"
+  },
+  {
+    "id": 26,
+    "question": "Bagaimana cara melakukan loop pada array di JavaScript?",
+    "options": ["forEach()", "loopEach()", "map()", "foreach()"],
+    "answer": "forEach()"
+  },
+  {
+    "id": 27,
+    "question": "Apa output dari kode berikut? `console.log('a' < 'b')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 28,
+    "question": "Apa yang akan terjadi jika kita mendeklarasikan variabel dengan nama yang sama dalam scope yang berbeda?",
+    "options": [
+      "Error",
+      "No effect",
+      "Value is overwritten",
+      "Value is ignored"
+    ],
+    "answer": "No effect"
+  },
+  {
+    "id": 29,
+    "question": "Bagaimana cara menambahkan properti baru pada objek JavaScript?",
+    "options": [
+      "obj.addProperty()",
+      "obj.property = value",
+      "obj.push(value)",
+      "obj.insertProperty(value)"
+    ],
+    "answer": "obj.property = value"
+  },
+  {
+    "id": 30,
+    "question": "Apa output dari kode berikut? `console.log(3 + 2 + '5')`",
+    "options": ["7", "'55'", "undefined", "NaN"],
+    "answer": "'55'"
+  },
+  {
+    "id": 31,
+    "question": "Apa hasil dari kode berikut? `console.log(5 && 2)`",
+    "options": ["5", "2", "NaN", "undefined"],
+    "answer": "2"
+  },
+  {
+    "id": 32,
+    "question": "Bagaimana cara mengonversi nilai string menjadi number di JavaScript?",
+    "options": [
+      "Number(string)",
+      "string.toNumber()",
+      "parseInt(string)",
+      "parseFloat(string)"
+    ],
+    "answer": "Number(string)"
+  },
+  {
+    "id": 33,
+    "question": "Apa output dari kode berikut? `console.log(5 > 4 > 3)`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "false"
+  },
+  {
+    "id": 34,
+    "question": "Apa itu closure dalam JavaScript?",
+    "options": [
+      "Fungsi yang dideklarasikan dalam fungsi lain dan mengakses variabel luar fungsi tersebut",
+      "Fungsi yang selalu dipanggil di akhir program",
+      "Fungsi yang mengembalikan nilai boolean",
+      "Fungsi yang hanya dipanggil sekali dalam program"
+    ],
+    "answer": "Fungsi yang dideklarasikan dalam fungsi lain dan mengakses variabel luar fungsi tersebut"
+  },
+  {
+    "id": 35,
+    "question": "Bagaimana cara mengecek apakah sebuah objek adalah array?",
+    "options": [
+      "Array.isArray(obj)",
+      "obj.isArray()",
+      "obj instanceof Array",
+      "obj.isArray"
+    ],
+    "answer": "Array.isArray(obj)"
+  },
+  {
+    "id": 36,
+    "question": "Apa hasil dari kode berikut? `console.log(2 === '2')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "false"
+  },
+  {
+    "id": 37,
+    "question": "Apa itu 'event listener' dalam JavaScript?",
+    "options": [
+      "Fungsi yang menunggu kejadian tertentu pada elemen",
+      "Fungsi yang mendengarkan input pengguna",
+      "Fungsi yang menjalankan operasi asinkron",
+      "Fungsi yang mendefinisikan aksi pada elemen tertentu"
+    ],
+    "answer": "Fungsi yang menunggu kejadian tertentu pada elemen"
+  },
+  {
+    "id": 38,
+    "question": "Bagaimana cara mengonversi sebuah objek menjadi JSON di JavaScript?",
+    "options": [
+      "JSON.parse(obj)",
+      "JSON.stringify(obj)",
+      "obj.toJSON()",
+      "obj.parseJSON()"
+    ],
+    "answer": "JSON.stringify(obj)"
+  },
+  {
+    "id": 39,
+    "question": "Apa hasil dari kode berikut? `console.log(!!'0')`",
+    "options": ["true", "false", "undefined", "NaN"],
+    "answer": "true"
+  },
+  {
+    "id": 40,
+    "question": "Apa itu 'callback hell' dalam JavaScript?",
+    "options": [
+      "Fungsi yang memanggil callback secara berulang dalam kode",
+      "Masalah ketika callback dipanggil dalam loop",
+      "Masalah dengan nested callbacks yang membingungkan",
+      "Masalah saat menggunakan callback asinkron dalam kode sinkron"
+    ],
+    "answer": "Masalah dengan nested callbacks yang membingungkan"
+  },
+  {
+    "id": 41,
+    "question": "Bagaimana cara mendeklarasikan fungsi yang menerima jumlah argumen yang tidak tetap?",
+    "options": [
+      "function test(...args)",
+      "function test(args...)",
+      "function test(args)",
+      "function test(...args[])"
+    ],
+    "answer": "function test(...args)"
+  },
+  {
+    "id": 42,
+    "question": "Apa output dari kode berikut? `console.log('5' + 5)`",
+    "options": ["55", "10", "undefined", "NaN"],
+    "answer": "55"
+  },
+  {
+    "id": 43,
+    "question": "Apa itu 'promise' dalam JavaScript?",
+    "options": [
+      "Object yang digunakan untuk menangani operasi asinkron",
+      "Fungsi yang memanggil callback setelah beberapa waktu",
+      "Fungsi yang mengembalikan nilai pada waktu tertentu",
+      "Fungsi yang memeriksa error dalam kode"
+    ],
+    "answer": "Object yang digunakan untuk menangani operasi asinkron"
+  },
+  {
+    "id": 44,
+    "question": "Bagaimana cara menangani error dalam JavaScript?",
+    "options": ["Try-catch", "Error-catch", "Exception-throw", "Catch-try"],
+    "answer": "Try-catch"
+  },
+  {
+    "id": 45,
+    "question": "Apa yang akan terjadi jika kita menggunakan `console.log` di dalam `try-catch`?",
+    "options": [
+      "It will print to the console",
+      "It will break the program",
+      "It will trigger an error",
+      "Nothing will happen"
+    ],
+    "answer": "It will print to the console"
+  },
+  {
+    "id": 46,
+    "question": "Bagaimana cara membuat fungsi async dalam JavaScript?",
+    "options": [
+      "async function test()",
+      "function async test()",
+      "function test() async",
+      "test(async function)"
+    ],
+    "answer": "async function test()"
+  },
+  {
+    "id": 47,
+    "question": "Apa itu 'destructuring' dalam JavaScript?",
+    "options": [
+      "Menarik nilai dari array atau objek dan menyimpannya dalam variabel",
+      "Menentukan nilai default pada fungsi",
+      "Mengekstrak nilai dari string",
+      "Menyusun kembali array menjadi objek"
+    ],
+    "answer": "Menarik nilai dari array atau objek dan menyimpannya dalam variabel"
+  },
+  {
+    "id": 48,
+    "question": "Bagaimana cara menangani operasi asinkron menggunakan async/await?",
+    "options": [
+      "Dengan menambahkan async pada fungsi dan await pada operasi yang asinkron",
+      "Dengan menggunakan promise dan then()",
+      "Dengan menggunakan callback functions",
+      "Dengan menambahkan await pada fungsi"
+    ],
+    "answer": "Dengan menambahkan async pada fungsi dan await pada operasi yang asinkron"
+  },
+  {
+    "id": 49,
+    "question": "Apa output dari kode berikut? `console.log(typeof NaN)`",
+    "options": ["number", "string", "undefined", "object"],
+    "answer": "number"
+  },
+  {
+    "id": 50,
+    "question": "Bagaimana cara menangani request HTTP di JavaScript?",
+    "options": [
+      "Dengan menggunakan fetch() atau XMLHttpRequest",
+      "Dengan menggunakan alert()",
+      "Dengan menggunakan prompt()",
+      "Dengan menggunakan try-catch"
+    ],
+    "answer": "Dengan menggunakan fetch() atau XMLHttpRequest"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Jika kurva permintaan suatu barang adalah Qd = 100 - 2P dan kurva penawarannya Qs = 20 + 3P, berapakah harga keseimbangan pasar?",
+    "options": ["12", "14", "16", "18"],
+    "answer": "16"
+  },
+  {
+    "id": 2,
+    "question": "Jika elastisitas permintaan suatu produk adalah -1,5, apa yang terjadi pada total pendapatan ketika harga dinaikkan 10%?",
+    "options": ["Meningkat 5%", "Menurun 5%", "Menurun 15%", "Meningkat 15%"],
+    "answer": "Menurun 5%"
+  },
+  {
+    "id": 3,
+    "question": "Dalam teori monopoli, pada titik mana produsen akan memaksimalkan keuntungannya?",
+    "options": ["MC = P", "MR = MC", "AC = AR", "MC = AR"],
+    "answer": "MR = MC"
+  },
+  {
+    "id": 4,
+    "question": "Suatu negara dengan PDB sebesar $800 miliar memiliki tingkat konsumsi $500 miliar dan investasi $150 miliar. Jika pengeluaran pemerintah adalah $100 miliar, berapakah nilai ekspor neto negara tersebut?",
+    "options": ["$50 miliar", "$75 miliar", "$125 miliar", "$150 miliar"],
+    "answer": "$50 miliar"
+  },
+  {
+    "id": 5,
+    "question": "Berdasarkan model IS-LM, kebijakan fiskal ekspansif akan menghasilkan:",
+    "options": [
+      "Pergeseran kurva IS ke kanan",
+      "Pergeseran kurva IS ke kiri",
+      "Pergeseran kurva LM ke kanan",
+      "Pergeseran kurva LM ke kiri"
+    ],
+    "answer": "Pergeseran kurva IS ke kanan"
+  },
+  {
+    "id": 6,
+    "question": "Dalam teori biaya peluang (opportunity cost), jika seseorang mengorbankan 3 jam waktu belajar (dengan nilai $15 per jam) untuk menonton film yang tiketnya berharga $12, berapakah total biaya peluangnya?",
+    "options": ["$12", "$45", "$57", "$60"],
+    "answer": "$57"
+  },
+  {
+    "id": 7,
+    "question": "Jika multiplier pengeluaran dalam sebuah ekonomi adalah 4, berapakah kecenderungan mengkonsumsi marjinal (MPC) dalam ekonomi tersebut?",
+    "options": ["0,5", "0,6", "0,75", "0,8"],
+    "answer": "0,75"
+  },
+  {
+    "id": 8,
+    "question": "Dalam struktur pasar oligopoli dengan model Cournot, jika ada dua perusahaan identik yang bersaing, bagaimana perbandingan antara harga keseimbangan dengan biaya marjinal?",
+    "options": ["P = MC", "P = 4/3 MC", "P = 3/2 MC", "P = 2 MC"],
+    "answer": "P = 3/2 MC"
+  },
+  {
+    "id": 9,
+    "question": "Dalam model pertumbuhan Solow, pertumbuhan ekonomi jangka panjang per kapita ditentukan oleh:",
+    "options": [
+      "Tingkat investasi",
+      "Pertumbuhan populasi",
+      "Tingkat tabungan",
+      "Kemajuan teknologi"
+    ],
+    "answer": "Kemajuan teknologi"
+  },
+  {
+    "id": 10,
+    "question": "Bank sentral melakukan operasi pasar terbuka dengan membeli obligasi pemerintah senilai $10 miliar. Jika rasio cadangan wajib adalah 10%, berapa potensi ekspansi kredit maksimum yang dapat terjadi di sistem perbankan?",
+    "options": ["$10 miliar", "$90 miliar", "$100 miliar", "$110 miliar"],
+    "answer": "$100 miliar"
+  },
+  {
+    "id": 11,
+    "question": "Dalam teori permainan, situasi di mana seorang pemain tidak dapat meningkatkan posisinya dengan mengubah strateginya sendiri ketika strategi pemain lain tetap, disebut:",
+    "options": [
+      "Strategi dominan",
+      "Strategi campuran",
+      "Keseimbangan Nash",
+      "Pareto optimal"
+    ],
+    "answer": "Keseimbangan Nash"
+  },
+  {
+    "id": 12,
+    "question": "Jika indeks Gini suatu negara meningkat dari 0,35 menjadi 0,45 dalam 5 tahun, apa yang dapat disimpulkan?",
+    "options": [
+      "Kesenjangan pendapatan menurun",
+      "Kesenjangan pendapatan meningkat",
+      "Pendapatan rata-rata meningkat",
+      "Pendapatan median meningkat"
+    ],
+    "answer": "Kesenjangan pendapatan meningkat"
+  },
+  {
+    "id": 13,
+    "question": "Dalam model perdagangan Heckscher-Ohlin, negara akan mengekspor barang yang produksinya:",
+    "options": [
+      "Intensif menggunakan sumber daya yang langka di negara tersebut",
+      "Intensif menggunakan sumber daya yang melimpah di negara tersebut",
+      "Memiliki keunggulan teknologi absolut",
+      "Memiliki biaya komparatif tertinggi"
+    ],
+    "answer": "Intensif menggunakan sumber daya yang melimpah di negara tersebut"
+  },
+  {
+    "id": 14,
+    "question": "Dalam hipotesis daur hidup konsumsi dan tabungan, individu cenderung:",
+    "options": [
+      "Menabung sepanjang hidupnya dengan tingkat yang konstan",
+      "Meminjam saat muda, menabung saat usia produktif, dan menghabiskan tabungan saat tua",
+      "Meminjam sepanjang hidupnya dan mewariskan hutang",
+      "Menabung hanya pada saat pendapatan tinggi"
+    ],
+    "answer": "Meminjam saat muda, menabung saat usia produktif, dan menghabiskan tabungan saat tua"
+  },
+  {
+    "id": 15,
+    "question": "Sebuah perusahaan memproduksi dengan fungsi produksi Q = 10L^0.5 K^0.5. Jika upah tenaga kerja (w) adalah $20 dan biaya modal (r) adalah $5, berapa rasio optimal K/L?",
+    "options": ["4", "0,25", "2", "0,5"],
+    "answer": "4"
+  },
+  {
+    "id": 16,
+    "question": "Nilai tukar riil antara mata uang negara A dan B dapat dihitung dengan formula:",
+    "options": ["e × (PA/PB)", "e × (PB/PA)", "PA × (e/PB)", "PB × (e/PA)"],
+    "answer": "e × (PA/PB)"
+  },
+  {
+    "id": 17,
+    "question": "Dalam teori siklus bisnis riil, fluktuasi ekonomi terutama disebabkan oleh:",
+    "options": [
+      "Guncangan moneter",
+      "Guncangan teknologi",
+      "Kebijakan fiskal",
+      "Ekspektasi irasional"
+    ],
+    "answer": "Guncangan teknologi"
+  },
+  {
+    "id": 18,
+    "question": "Jika pendapatan disposabel meningkat dari $1000 menjadi $1200, dan konsumsi meningkat dari $900 menjadi $1020, berapakah kecenderungan mengkonsumsi marjinal (MPC)?",
+    "options": ["0,5", "0,6", "0,75", "0,9"],
+    "answer": "0,6"
+  },
+  {
+    "id": 19,
+    "question": "Dalam model Mundell-Fleming untuk ekonomi terbuka kecil dengan kurs mengambang, kebijakan fiskal ekspansif akan mengakibatkan:",
+    "options": [
+      "Kenaikan tingkat bunga dan apresiasi mata uang",
+      "Kenaikan tingkat bunga dan depresiasi mata uang",
+      "Tidak ada perubahan pada output",
+      "Kenaikan output tanpa perubahan tingkat bunga"
+    ],
+    "answer": "Tidak ada perubahan pada output"
+  },
+  {
+    "id": 20,
+    "question": "Sebuah bank memiliki cadangan $20 juta dan simpanan $100 juta. Jika rasio cadangan wajib minimum adalah 10%, berapa jumlah pinjaman maksimum yang dapat diberikan bank?",
+    "options": ["$70 juta", "$80 juta", "$90 juta", "$100 juta"],
+    "answer": "$90 juta"
+  },
+  {
+    "id": 21,
+    "question": "Dalam teori upah efisiensi, perusahaan mungkin membayar upah di atas tingkat keseimbangan pasar untuk:",
+    "options": [
+      "Mengurangi perputaran tenaga kerja",
+      "Mematuhi regulasi pemerintah",
+      "Menuruti tuntutan serikat pekerja",
+      "Menghindari pajak"
+    ],
+    "answer": "Mengurangi perputaran tenaga kerja"
+  },
+  {
+    "id": 22,
+    "question": "Kurva Phillips jangka pendek menunjukkan hubungan terbalik antara:",
+    "options": [
+      "Inflasi dan pengangguran",
+      "Inflasi dan defisit anggaran",
+      "Pengangguran dan pertumbuhan ekonomi",
+      "Inflasi dan tingkat bunga riil"
+    ],
+    "answer": "Inflasi dan pengangguran"
+  },
+  {
+    "id": 23,
+    "question": "Dalam teori preferensi likuiditas Keynes, permintaan uang untuk motif spekulasi akan meningkat ketika:",
+    "options": [
+      "Tingkat bunga tinggi",
+      "Tingkat bunga rendah",
+      "Pendapatan meningkat",
+      "Harga barang meningkat"
+    ],
+    "answer": "Tingkat bunga rendah"
+  },
+  {
+    "id": 24,
+    "question": "Jika suatu negara mengalami defisit anggaran dan defisit neraca perdagangan sekaligus, kondisi ini sering disebut sebagai:",
+    "options": ["Defisit kembar", "Resesi kembar", "Stagflasi", "Hiperinflasi"],
+    "answer": "Defisit kembar"
+  },
+  {
+    "id": 25,
+    "question": "Dalam sistem kurs tetap, jika nilai tukar pasar lebih tinggi dari nilai tukar resmi, bank sentral harus:",
+    "options": [
+      "Membeli mata uang domestik dengan cadangan devisanya",
+      "Menjual mata uang domestik untuk memperoleh cadangan devisa",
+      "Menaikkan suku bunga",
+      "Menurunkan suku bunga"
+    ],
+    "answer": "Membeli mata uang domestik dengan cadangan devisanya"
+  }
+]

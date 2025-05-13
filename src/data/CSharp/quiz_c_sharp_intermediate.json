@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Apa perbedaan antara 'ref' dan 'out' parameter di C#?",
+    "options": [
+      "'ref' dan 'out' sama saja",
+      "'ref' hanya digunakan untuk string, 'out' untuk integer",
+      "'out' hanya digunakan di konstruktor",
+      "'ref' harus diinisialisasi sebelum dipanggil, 'out' tidak perlu"
+    ],
+    "answer": "'ref' harus diinisialisasi sebelum dipanggil, 'out' tidak perlu"
+  },
+  {
+    "id": 2,
+    "question": "Apa arti dari kata kunci 'sealed' pada class di C#?",
+    "options": [
+      "Membuat class menjadi abstract",
+      "Mencegah class untuk diturunkan lagi",
+      "Mengunci semua method di dalam class",
+      "Membuat class hanya bisa diakses di dalam assembly"
+    ],
+    "answer": "Mencegah class untuk diturunkan lagi"
+  },
+  {
+    "id": 3,
+    "question": "Apa fungsi dari keyword 'using' dalam C#?",
+    "options": [
+      "Untuk mendeklarasikan namespace baru",
+      "Untuk mengimpor class dari Java",
+      "Untuk membuat class partial",
+      "Mengelola resource agar dilepaskan secara otomatis"
+    ],
+    "answer": "Mengelola resource agar dilepaskan secara otomatis"
+  },
+  {
+    "id": 4,
+    "question": "Apa output dari kode berikut?\nint x = 10;\nint y = x++;\nConsole.WriteLine(y);",
+    "options": ["9", "Error", "11", "10"],
+    "answer": "10"
+  },
+  {
+    "id": 5,
+    "question": "Apa output dari kode berikut?\nstring s = null;\nConsole.WriteLine(s?.Length);",
+    "options": ["null", "0", "Error", "Exception"],
+    "answer": "null"
+  },
+  {
+    "id": 6,
+    "question": "Apa fungsi dari operator '??' dalam C#?",
+    "options": [
+      "Memberi nilai default jika operand kiri null",
+      "Melakukan pengecekan tipe",
+      "Melakukan perbandingan nilai",
+      "Menggabungkan dua string"
+    ],
+    "answer": "Memberi nilai default jika operand kiri null"
+  },
+  {
+    "id": 7,
+    "question": "Apa output dari kode berikut?\nint? a = null;\nint b = a ?? 5;\nConsole.WriteLine(b);",
+    "options": ["5", "0", "null", "Error"],
+    "answer": "5"
+  },
+  {
+    "id": 8,
+    "question": "Apa yang dimaksud dengan boxing dalam C#?",
+    "options": [
+      "Mengubah nilai tipe value menjadi tipe reference",
+      "Mengubah class menjadi struct",
+      "Menjadikan object menjadi null",
+      "Mengkonversi string ke integer"
+    ],
+    "answer": "Mengubah nilai tipe value menjadi tipe reference"
+  },
+  {
+    "id": 9,
+    "question": "Apa itu unboxing dalam C#?",
+    "options": [
+      "Mengubah nilai dari object ke tipe value",
+      "Mengkonversi array menjadi list",
+      "Membuat class baru dari object",
+      "Menjadikan object null"
+    ],
+    "answer": "Mengubah nilai dari object ke tipe value"
+  },
+  {
+    "id": 10,
+    "question": "Apa hasil dari kode berikut?\nbool? isReady = null;\nbool status = isReady ?? false;\nConsole.WriteLine(status);",
+    "options": ["false", "null", "true", "Error"],
+    "answer": "false"
+  },
+  {
+    "id": 11,
+    "question": "Apa yang dimaksud dengan nullable type di C#?",
+    "options": [
+      "Tipe data yang bisa menyimpan nilai null",
+      "Tipe data yang hanya bisa bernilai true/false",
+      "Tipe data turunan dari interface",
+      "Tipe data khusus untuk array"
+    ],
+    "answer": "Tipe data yang bisa menyimpan nilai null"
+  },
+  {
+    "id": 12,
+    "question": "Apa keyword yang digunakan untuk menangani error di C#?",
+    "options": ["throw", "try-catch", "trap", "handle"],
+    "answer": "try-catch"
+  },
+  {
+    "id": 13,
+    "question": "Apa fungsi dari interface dalam C#?",
+    "options": [
+      "Menentukan pewarisan class",
+      "Menyediakan kontrak untuk class yang mengimplementasikannya",
+      "Mendefinisikan atribut class",
+      "Mengatur memori class"
+    ],
+    "answer": "Menyediakan kontrak untuk class yang mengimplementasikannya"
+  },
+  {
+    "id": 14,
+    "question": "Apa perbedaan antara class abstract dan interface di C#?",
+    "options": [
+      "Interface bisa memiliki method dengan implementasi",
+      "Abstract class tidak bisa memiliki field",
+      "Class abstract bisa memiliki implementasi method, interface tidak",
+      "Interface tidak bisa diimplementasikan lebih dari satu"
+    ],
+    "answer": "Class abstract bisa memiliki implementasi method, interface tidak"
+  },
+  {
+    "id": 15,
+    "question": "Keyword apa yang digunakan untuk membuat method yang bisa di-override?",
+    "options": ["override", "new", "virtual", "base"],
+    "answer": "virtual"
+  },
+  {
+    "id": 16,
+    "question": "Apa output dari kode berikut?\nint[] arr = new int[3];\nConsole.WriteLine(arr[0]);",
+    "options": ["0", "null", "Error", "1"],
+    "answer": "0"
+  },
+  {
+    "id": 17,
+    "question": "Apa itu delegate dalam C#?",
+    "options": [
+      "Tipe data untuk menyimpan referensi method",
+      "Sebuah class untuk mewarisi method dari parent",
+      "Fungsi untuk membuat thread",
+      "Variabel global yang static"
+    ],
+    "answer": "Tipe data untuk menyimpan referensi method"
+  },
+  {
+    "id": 18,
+    "question": "Apa kegunaan dari event dalam C#?",
+    "options": [
+      "Untuk menjalankan perulangan",
+      "Untuk memanggil konstruktor secara otomatis",
+      "Untuk menangani notifikasi ketika suatu aksi terjadi",
+      "Untuk membuat array dinamis"
+    ],
+    "answer": "Untuk menangani notifikasi ketika suatu aksi terjadi"
+  },
+  {
+    "id": 19,
+    "question": "Apa hasil dari kode berikut?\nstring text = \"halo\";\nConsole.WriteLine(text.Length);",
+    "options": ["4", "5", "3", "Error"],
+    "answer": "4"
+  },
+  {
+    "id": 20,
+    "question": "Apa itu LINQ di C#?",
+    "options": [
+      "Fitur untuk mengakses database secara manual",
+      "Fitur untuk menghubungkan project dengan web",
+      "Fitur untuk melakukan query data pada koleksi",
+      "Metode untuk meng-override class"
+    ],
+    "answer": "Fitur untuk melakukan query data pada koleksi"
+  },
+  {
+    "id": 21,
+    "question": "Apa hasil dari kode berikut?\nint a = 5, b = 10;\nConsole.WriteLine(a > b ? a : b);",
+    "options": ["5", "Error", "10", "false"],
+    "answer": "10"
+  },
+  {
+    "id": 22,
+    "question": "Apa itu method overloading dalam C#?",
+    "options": [
+      "Membuat method dengan nama sama tapi parameter berbeda",
+      "Meng-override method dari parent",
+      "Menggabungkan dua method jadi satu",
+      "Membuat method dengan nama dan parameter sama"
+    ],
+    "answer": "Membuat method dengan nama sama tapi parameter berbeda"
+  },
+  {
+    "id": 23,
+    "question": "Apa itu method overriding dalam C#?",
+    "options": [
+      "Membuat method static",
+      "Mengubah implementasi method dari base class",
+      "Membuat method baru tanpa parameter",
+      "Menyalin method ke dalam interface"
+    ],
+    "answer": "Mengubah implementasi method dari base class"
+  },
+  {
+    "id": 24,
+    "question": "Apa keyword untuk mewarisi class di C#?",
+    "options": ["extend", "base", "inherit", ":"],
+    "answer": ":"
+  },
+  {
+    "id": 25,
+    "question": "Bagaimana cara mendeklarasikan array integer berukuran 5 di C#?",
+    "options": [
+      "int[5] array = new int[];",
+      "int[] array = new int[5];",
+      "array int = new array[5];",
+      "new int = array[5];"
+    ],
+    "answer": "int[] array = new int[5];"
+  },
+  {
+    "id": 26,
+    "question": "Apa fungsi dari try-catch-finally di C#?",
+    "options": [
+      "Untuk melakukan loop dengan pengecekan kondisi",
+      "Untuk mengatur urutan method",
+      "Menangani exception dan memastikan block finally tetap dijalankan",
+      "Membuat kode menjadi asynchronous"
+    ],
+    "answer": "Menangani exception dan memastikan block finally tetap dijalankan"
+  },
+  {
+    "id": 27,
+    "question": "Apa yang terjadi jika exception tidak ditangani?",
+    "options": [
+      "Program tetap berjalan seperti biasa",
+      "Nilai variabel akan reset",
+      "Program akan crash",
+      "Method akan menjadi async"
+    ],
+    "answer": "Program akan crash"
+  },
+  {
+    "id": 28,
+    "question": "Apa output dari kode berikut?\nConsole.WriteLine(3 + 4 * 2);",
+    "options": ["14", "10", "11", "16"],
+    "answer": "11"
+  },
+  {
+    "id": 29,
+    "question": "Keyword apa yang digunakan untuk membuat class abstract?",
+    "options": ["base", "sealed", "interface", "abstract"],
+    "answer": "abstract"
+  },
+  {
+    "id": 30,
+    "question": "Apa output dari kode berikut?\nbool flag = true;\nConsole.WriteLine(!flag);",
+    "options": ["true", "false", "null", "Error"],
+    "answer": "false"
+  },
+  {
+    "id": 31,
+    "question": "Apa hasil dari kode berikut?\nConsole.WriteLine(\"10\" + 5);",
+    "options": ["15", "105", "Error", "10 5"],
+    "answer": "105"
+  },
+  {
+    "id": 32,
+    "question": "Apa itu namespace dalam C#?",
+    "options": [
+      "Tempat menyimpan variabel global",
+      "Struktur untuk mengatur dan mengelompokkan class",
+      "Keyword untuk membuat method",
+      "Class turunan khusus untuk array"
+    ],
+    "answer": "Struktur untuk mengatur dan mengelompokkan class"
+  },
+  {
+    "id": 33,
+    "question": "Apa perbedaan antara '==' dan '.Equals()' di C#?",
+    "options": [
+      "'.Equals()' hanya untuk integer",
+      "'==' membandingkan referensi, '.Equals()' membandingkan isi",
+      "Keduanya sama persis",
+      "'.Equals()' membandingkan isi, '==' bisa beda tergantung konteks"
+    ],
+    "answer": "'.Equals()' membandingkan isi, '==' bisa beda tergantung konteks"
+  },
+  {
+    "id": 34,
+    "question": "Apa itu property dalam C#?",
+    "options": [
+      "Method untuk menghitung nilai class",
+      "Fungsi untuk menyimpan method",
+      "Pendekatan mengakses field dengan get dan set",
+      "Tipe data array 2 dimensi"
+    ],
+    "answer": "Pendekatan mengakses field dengan get dan set"
+  },
+  {
+    "id": 35,
+    "question": "Apa yang dimaksud dengan auto-implemented property?",
+    "options": [
+      "Property yang otomatis dijalankan saat object dibuat",
+      "Property yang tidak punya field dan langsung get/set",
+      "Property yang hanya bisa diakses dari luar class",
+      "Property dengan parameter"
+    ],
+    "answer": "Property yang tidak punya field dan langsung get/set"
+  },
+  {
+    "id": 36,
+    "question": "Apa output dari kode berikut?\nstring s = \"C#\";\nConsole.WriteLine(s.ToLower());",
+    "options": ["C#", "c#", "C#lower", "error"],
+    "answer": "c#"
+  },
+  {
+    "id": 37,
+    "question": "Bagaimana cara membuat constant di C#?",
+    "options": [
+      "const int x = 10;",
+      "int const x = 10;",
+      "readonly int x = 10;",
+      "int x := 10;"
+    ],
+    "answer": "const int x = 10;"
+  },
+  {
+    "id": 38,
+    "question": "Apa itu static class di C#?",
+    "options": [
+      "Class yang tidak bisa diinstansiasi",
+      "Class yang hanya bisa dipanggil dalam satu file",
+      "Class dengan atribut tetap",
+      "Class yang tidak bisa mengandung method"
+    ],
+    "answer": "Class yang tidak bisa diinstansiasi"
+  },
+  {
+    "id": 39,
+    "question": "Apa hasil dari kode berikut?\nConsole.WriteLine(Math.Pow(2, 3));",
+    "options": ["6", "5", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "id": 40,
+    "question": "Apa itu konstruktor di C#?",
+    "options": [
+      "Method yang dipanggil saat object dibuat",
+      "Method untuk menghitung luas",
+      "Method untuk mewarisi class lain",
+      "Method yang hanya bisa dijalankan sekali"
+    ],
+    "answer": "Method yang dipanggil saat object dibuat"
+  },
+  {
+    "id": 41,
+    "question": "Apa itu sealed class dalam C#?",
+    "options": [
+      "Class yang bisa diturunkan",
+      "Class yang tidak bisa diturunkan",
+      "Class khusus untuk interface",
+      "Class yang hanya bisa digunakan di satu namespace"
+    ],
+    "answer": "Class yang tidak bisa diturunkan"
+  },
+  {
+    "id": 42,
+    "question": "Apa output dari kode berikut?\n \n int x = 10;\n Console.WriteLine(++x);",
+    "options": ["11", "10", "12", "Error"],
+    "answer": "11"
+  },
+  {
+    "id": 43,
+    "question": "Keyword apa yang digunakan untuk mengakses class induk di C#?",
+    "options": ["this", "super", "parent", "base"],
+    "answer": "base"
+  },
+  {
+    "id": 44,
+    "question": "Apa yang dimaksud dengan overloading operator di C#?",
+    "options": [
+      "Menggunakan operator tanpa batas",
+      "Mengubah cara kerja operator untuk tipe tertentu",
+      "Menggabungkan operator menjadi satu",
+      "Membuat operator baru"
+    ],
+    "answer": "Mengubah cara kerja operator untuk tipe tertentu"
+  },
+  {
+    "id": 45,
+    "question": "Apa output dari kode berikut?\nint a = 7, b = 2;\nConsole.WriteLine(a % b);",
+    "options": ["3", "1", "2", "0"],
+    "answer": "1"
+  },
+  {
+    "id": 46,
+    "question": "Apa keyword untuk membuat method asynchronous di C#?",
+    "options": ["async", "await", "asynchronous", "thread"],
+    "answer": "async"
+  },
+  {
+    "id": 47,
+    "question": "Apa kegunaan dari keyword 'using' dalam C#?",
+    "options": [
+      "Untuk mengimpor namespace",
+      "Untuk membuat objek",
+      "Untuk mendefinisikan interface",
+      "Untuk mendeklarasikan loop"
+    ],
+    "answer": "Untuk mengimpor namespace"
+  },
+  {
+    "id": 48,
+    "question": "Apa itu extension method di C#?",
+    "options": [
+      "Method yang dapat digunakan di semua class",
+      "Method yang menambahkan fungsionalitas ke class tanpa mengubah class aslinya",
+      "Method yang hanya bisa diakses oleh interface",
+      "Method untuk mengekstensi program"
+    ],
+    "answer": "Method yang menambahkan fungsionalitas ke class tanpa mengubah class aslinya"
+  },
+  {
+    "id": 49,
+    "question": "Apa arti dari keyword 'params' di C#?",
+    "options": [
+      "Mengirim banyak parameter dalam bentuk array",
+      "Membatasi parameter hanya satu",
+      "Parameter harus bertipe string",
+      "Membuat parameter bersifat optional"
+    ],
+    "answer": "Mengirim banyak parameter dalam bentuk array"
+  },
+  {
+    "id": 50,
+    "question": "Apa itu garbage collection dalam C#?",
+    "options": [
+      "Mekanisme untuk menghapus file",
+      "Mekanisme otomatis untuk mengelola dan membebaskan memori",
+      "Sistem penanganan error",
+      "Teknik pengurutan data"
+    ],
+    "answer": "Mekanisme otomatis untuk mengelola dan membebaskan memori"
+  }
+]

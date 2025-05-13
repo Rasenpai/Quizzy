@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "question": "Apa yang dimaksud dengan permintaan (demand) dalam ekonomi?",
+    "options": [
+      "Jumlah barang yang tersedia di pasar",
+      "Keinginan dan kemampuan pembeli membeli barang pada berbagai harga",
+      "Jumlah uang yang dimiliki konsumen",
+      "Harga barang di pasar"
+    ],
+    "answer": "Keinginan dan kemampuan pembeli membeli barang pada berbagai harga"
+  },
+  {
+    "id": 2,
+    "question": "Apa pengertian penawaran (supply)?",
+    "options": [
+      "Keinginan produsen menjual pada berbagai harga",
+      "Jumlah uang yang dikeluarkan konsumen",
+      "Jumlah pekerja dalam perekonomian",
+      "Harga barang di masa depan"
+    ],
+    "answer": "Keinginan produsen menjual pada berbagai harga"
+  },
+  {
+    "id": 3,
+    "question": "Apa yang terjadi jika harga suatu barang lebih tinggi dari harga keseimbangan?",
+    "options": [
+      "Terjadi kelebihan permintaan (shortage)",
+      "Permintaan dan penawaran seimbang",
+      "Terjadi kelebihan penawaran (surplus)",
+      "Tidak ada transaksi sama sekali"
+    ],
+    "answer": "Terjadi kelebihan penawaran (surplus)"
+  },
+  {
+    "id": 4,
+    "question": "Apa itu harga keseimbangan (equilibrium price)?",
+    "options": [
+      "Harga tertinggi di pasar",
+      "Harga terendah di pasar",
+      "Harga di mana jumlah permintaan sama dengan jumlah penawaran",
+      "Harga yang ditetapkan pemerintah"
+    ],
+    "answer": "Harga di mana jumlah permintaan sama dengan jumlah penawaran"
+  },
+  {
+    "id": 5,
+    "question": "Apa fungsi harga dalam mekanisme pasar?",
+    "options": [
+      "Menentukan pajak",
+      "Menyeimbangkan permintaan dan penawaran",
+      "Mengatur nilai tukar mata uang",
+      "Menentukan suku bunga"
+    ],
+    "answer": "Menyeimbangkan permintaan dan penawaran"
+  },
+  {
+    "id": 6,
+    "question": "Apa yang dimaksud elastisitas harga permintaan?",
+    "options": [
+      "Sensitivitas permintaan terhadap perubahan harga",
+      "Sensitivitas penawaran terhadap perubahan harga",
+      "Jumlah konsumen di pasar",
+      "Perubahan biaya produksi"
+    ],
+    "answer": "Sensitivitas permintaan terhadap perubahan harga"
+  },
+  {
+    "id": 7,
+    "question": "Jika elastisitas harga permintaan > 1, berarti permintaan bersifat...",
+    "options": [
+      "Inelastis",
+      "Elastis",
+      "Unitleastis",
+      "Tidak terpengaruh harga"
+    ],
+    "answer": "Elastis"
+  },
+  {
+    "id": 8,
+    "question": "Apa itu biaya peluang (opportunity cost)?",
+    "options": [
+      "Harga suatu barang di pasar",
+      "Biaya produksi per unit",
+      "Manfaat tertinggi yang dikorbankan saat memilih alternatif",
+      "Jumlah pengeluaran konsumen"
+    ],
+    "answer": "Manfaat tertinggi yang dikorbankan saat memilih alternatif"
+  },
+  {
+    "id": 9,
+    "question": "Apa tujuan utama pemerintah menerapkan kebijakan fiskal?",
+    "options": [
+      "Mengendalikan pasokan uang",
+      "Mencapai stabilitas ekonomi melalui pajak dan belanja negara",
+      "Menentukan nilai tukar mata uang",
+      "Menetapkan suku bunga bank sentral"
+    ],
+    "answer": "Mencapai stabilitas ekonomi melalui pajak dan belanja negara"
+  },
+  {
+    "id": 10,
+    "question": "Apa yang dimaksud PDB (Produk Domestik Bruto)?",
+    "options": [
+      "Total nilai pasar semua barang dan jasa akhir yang diproduksi dalam negeri selama periode tertentu",
+      "Jumlah penduduk suatu negara",
+      "Total ekspor dikurangi impor",
+      "Pendapatan per kapita"
+    ],
+    "answer": "Total nilai pasar semua barang dan jasa akhir yang diproduksi dalam negeri selama periode tertentu"
+  },
+  {
+    "id": 11,
+    "question": "Apa perbedaan PDB nominal dan PDB riil?",
+    "options": [
+      "Tidak ada perbedaan",
+      "PDB riil sudah disesuaikan inflasi, PDB nominal belum",
+      "PDB nominal disesuaikan inflasi, PDB riil belum",
+      "PDB riil hanya menghitung barang, PDB nominal hanya menghitung jasa"
+    ],
+    "answer": "PDB riil sudah disesuaikan inflasi, PDB nominal belum"
+  },
+  {
+    "id": 12,
+    "question": "Apa itu inflasi?",
+    "options": [
+      "Penurunan umum harga barang dan jasa",
+      "Kenaikan umum harga barang dan jasa",
+      "Stabilitas harga barang",
+      "Kebijakan moneter bank sentral"
+    ],
+    "answer": "Kenaikan umum harga barang dan jasa"
+  },
+  {
+    "id": 13,
+    "question": "Bagaimana bank sentral biasanya mengendalikan inflasi?",
+    "options": [
+      "Menurunkan suku bunga",
+      "Menaikkan suku bunga",
+      "Meningkatkan jumlah uang beredar",
+      "Menetapkan harga maksimum"
+    ],
+    "answer": "Menaikkan suku bunga"
+  },
+  {
+    "id": 14,
+    "question": "Apa itu deflasi?",
+    "options": [
+      "Kenaikan jumlah uang beredar",
+      "Penurunan umum harga barang dan jasa",
+      "Kenaikan suku bunga",
+      "Stabilitas ekonomi"
+    ],
+    "answer": "Penurunan umum harga barang dan jasa"
+  },
+  {
+    "id": 15,
+    "question": "Apa peran pajak dalam perekonomian?",
+    "options": [
+      "Mengurangi pendapatan negara",
+      "Membiayai belanja publik dan mengatur permintaan agregat",
+      "Menyebabkan inflasi",
+      "Meningkatkan suku bunga"
+    ],
+    "answer": "Membiayai belanja publik dan mengatur permintaan agregat"
+  },
+  {
+    "id": 16,
+    "question": "Apa itu neraca perdagangan?",
+    "options": [
+      "Selisih antara ekspor dan impor barang dan jasa",
+      "Jumlah utang luar negeri",
+      "Saldo anggaran pemerintah",
+      "Tingkat pengangguran"
+    ],
+    "answer": "Selisih antara ekspor dan impor barang dan jasa"
+  },
+  {
+    "id": 17,
+    "question": "Jika ekspor > impor, negara mengalami...",
+    "options": [
+      "Defisit perdagangan",
+      "Surplus perdagangan",
+      "Neraca seimbang",
+      "Krisis moneter"
+    ],
+    "answer": "Surplus perdagangan"
+  },
+  {
+    "id": 18,
+    "question": "Apa yang dimaksud kurs valuta asing?",
+    "options": [
+      "Harga barang impor",
+      "Tarif pajak ekspor",
+      "Nilai tukar mata uang satu negara terhadap negara lain",
+      "Suku bunga pinjaman"
+    ],
+    "answer": "Nilai tukar mata uang satu negara terhadap negara lain"
+  },
+  {
+    "id": 19,
+    "question": "Apa yang biasanya mempengaruhi nilai tukar mata uang?",
+    "options": [
+      "Jumlah penduduk",
+      "Kebijakan fiskal dan moneter, serta neraca perdagangan",
+      "Warna bendera negara",
+      "Jumlah pulau"
+    ],
+    "answer": "Kebijakan fiskal dan moneter, serta neraca perdagangan"
+  },
+  {
+    "id": 20,
+    "question": "Apa itu pengangguran (unemployment)?",
+    "options": [
+      "Jumlah orang yang bekerja penuh waktu",
+      "Jumlah orang yang tidak bekerja tetapi aktif mencari kerja",
+      "Jumlah perusahaan tutup",
+      "Tingkat inflasi"
+    ],
+    "answer": "Jumlah orang yang tidak bekerja tetapi aktif mencari kerja"
+  },
+  {
+    "id": 21,
+    "question": "Apa perbedaan antara pertumbuhan ekonomi dan pembangunan ekonomi?",
+    "options": [
+      "Tidak ada perbedaan",
+      "Pertumbuhan ekonomi mengukur kenaikan output, pembangunan mencakup aspek sosial dan kualitas hidup",
+      "Pertumbuhan hanya jasa, pembangunan hanya barang",
+      "Pertumbuhan bersifat jangka panjang, pembangunan jangka pendek"
+    ],
+    "answer": "Pertumbuhan ekonomi mengukur kenaikan output, pembangunan mencakup aspek sosial dan kualitas hidup"
+  },
+  {
+    "id": 22,
+    "question": "Apa indikator umum untuk mengukur kemiskinan?",
+    "options": [
+      "Tingkat inflasi",
+      "Gini ratio",
+      "Jumlah penduduk",
+      "Defisit anggaran"
+    ],
+    "answer": "Gini ratio"
+  },
+  {
+    "id": 23,
+    "question": "Apa yang dimaksud pasar persaingan sempurna?",
+    "options": [
+      "Banyak penjual, produk homogen, dan tidak ada hambatan masuk",
+      "Satu penjual menguasai pasar",
+      "Beberapa penjual dominan",
+      "Harga diatur pemerintah"
+    ],
+    "answer": "Banyak penjual, produk homogen, dan tidak ada hambatan masuk"
+  },
+  {
+    "id": 24,
+    "question": "Apa itu monopoli?",
+    "options": [
+      "Banyak pembeli dan penjual",
+      "Satu penjual menguasai seluruh pasar",
+      "Harga fleksibel",
+      "Pasar persaingan sempurna"
+    ],
+    "answer": "Satu penjual menguasai seluruh pasar"
+  },
+  {
+    "id": 25,
+    "question": "Apa fungsi bank sentral dalam perekonomian?",
+    "options": [
+      "Mengatur kebijakan moneter dan menjaga stabilitas harga",
+      "Menentukan pajak penghasilan",
+      "Mencetak undang-undang",
+      "Membangun infrastruktur"
+    ],
+    "answer": "Mengatur kebijakan moneter dan menjaga stabilitas harga"
+  }
+]

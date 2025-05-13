@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "question": "Apa tipe data untuk bilangan bulat di C#?",
+    "options": ["int", "float", "string", "char"],
+    "answer": "int"
+  },
+  {
+    "id": 2,
+    "question": "Bagaimana cara mendeklarasikan variabel dengan tipe data integer di C#?",
+    "options": ["int var;", "integer var;", "float var;", "var int;"],
+    "answer": "int var;"
+  },
+  {
+    "id": 3,
+    "question": "Bagaimana cara menampilkan teks ke layar di C#?",
+    "options": [
+      "print('Hello');",
+      "System.out.println('Hello');",
+      "Console.WriteLine(\"Hello\");",
+      "echo(\"Hello\");"
+    ],
+    "answer": "Console.WriteLine(\"Hello\");"
+  },
+  {
+    "id": 4,
+    "question": "Bagaimana cara menulis komentar dalam C#?",
+    "options": [
+      "// Komentar",
+      "/* Komentar */",
+      "// Komentar",
+      "<!-- Komentar -->"
+    ],
+    "answer": "// Komentar"
+  },
+  {
+    "id": 5,
+    "question": "Apa yang dimaksud dengan `for` loop di C#?",
+    "options": [
+      "Loop yang menjalankan kode berdasarkan kondisi",
+      "Loop yang hanya menjalankan kode sekali",
+      "Loop yang tidak memiliki batas",
+      "Loop tanpa kondisi"
+    ],
+    "answer": "Loop yang menjalankan kode berdasarkan kondisi"
+  },
+  {
+    "id": 6,
+    "question": "Apa itu `Console.ReadLine()` dalam C#?",
+    "options": [
+      "Digunakan untuk membaca input dari pengguna",
+      "Digunakan untuk menulis output",
+      "Digunakan untuk mendeklarasikan fungsi",
+      "Digunakan untuk menginisialisasi variabel"
+    ],
+    "answer": "Digunakan untuk membaca input dari pengguna"
+  },
+  {
+    "id": 7,
+    "question": "Apa yang terjadi jika sebuah variabel dideklarasikan tanpa nilai awal di C#?",
+    "options": [
+      "Nilainya adalah default untuk tipe data tersebut",
+      "Akan terjadi error",
+      "Nilainya adalah 0",
+      "Nilainya adalah null"
+    ],
+    "answer": "Nilainya adalah default untuk tipe data tersebut"
+  },
+  {
+    "id": 8,
+    "question": "Apa tipe data untuk menyimpan karakter di C#?",
+    "options": ["char", "string", "int", "bool"],
+    "answer": "char"
+  },
+  {
+    "id": 9,
+    "question": "Bagaimana cara mendeklarasikan array di C#?",
+    "options": ["int[] arr;", "array arr[5];", "arr[5] int;", "int arr[5];"],
+    "answer": "int[] arr;"
+  },
+  {
+    "id": 10,
+    "question": "Bagaimana cara menulis fungsi di C#?",
+    "options": [
+      "void function() {}",
+      "function void() {}",
+      "def function() {}",
+      "void function() {}"
+    ],
+    "answer": "void function() {}"
+  },
+  {
+    "id": 11,
+    "question": "Apa itu `class` di C#?",
+    "options": [
+      "Template untuk membuat objek",
+      "Tipe data",
+      "Operasi matematis",
+      "Fungsi"
+    ],
+    "answer": "Template untuk membuat objek"
+  },
+  {
+    "id": 12,
+    "question": "Apa fungsi dari `using` di C#?",
+    "options": [
+      "Untuk mengimpor namespace",
+      "Untuk mendeklarasikan fungsi",
+      "Untuk mendeklarasikan variabel",
+      "Untuk input-output"
+    ],
+    "answer": "Untuk mengimpor namespace"
+  },
+  {
+    "id": 13,
+    "question": "Bagaimana cara membuat komentar lebih dari satu baris di C#?",
+    "options": [
+      "/* Komentar */",
+      "// Komentar",
+      "<!-- Komentar -->",
+      "# Komentar"
+    ],
+    "answer": "/* Komentar */"
+  },
+  {
+    "id": 14,
+    "question": "Apa itu `public` di C#?",
+    "options": [
+      "Modifikator akses untuk membuat anggota kelas dapat diakses dari luar kelas",
+      "Modifikator untuk mendeklarasikan variabel",
+      "Modifikator untuk mendeklarasikan metode private",
+      "Modifikator untuk kelas abstrak"
+    ],
+    "answer": "Modifikator akses untuk membuat anggota kelas dapat diakses dari luar kelas"
+  },
+  {
+    "id": 15,
+    "question": "Apa itu `static` dalam C#?",
+    "options": [
+      "Menandakan bahwa anggota kelas dapat diakses tanpa membuat objek",
+      "Menandakan bahwa anggota kelas hanya bisa diakses di dalam kelas",
+      "Menandakan bahwa variabel adalah konstanta",
+      "Menandakan tipe data integer"
+    ],
+    "answer": "Menandakan bahwa anggota kelas dapat diakses tanpa membuat objek"
+  },
+  {
+    "id": 16,
+    "question": "Apa itu `if` dalam C#?",
+    "options": [
+      "Struktur kontrol untuk percabangan",
+      "Fungsi untuk mendeklarasikan variabel",
+      "Operasi untuk menambahkan nilai",
+      "Menangani error"
+    ],
+    "answer": "Struktur kontrol untuk percabangan"
+  },
+  {
+    "id": 17,
+    "question": "Bagaimana cara membuat `for` loop di C#?",
+    "options": [
+      "for(i = 0; i < 5; i++) {}",
+      "for(i < 5) {}",
+      "while(i < 5) {}",
+      "loop i = 0 to 5 {}"
+    ],
+    "answer": "for(i = 0; i < 5; i++) {}"
+  },
+  {
+    "id": 18,
+    "question": "Apa itu `break` di C#?",
+    "options": [
+      "Digunakan untuk keluar dari loop",
+      "Digunakan untuk melanjutkan loop",
+      "Digunakan untuk menunggu input pengguna",
+      "Digunakan untuk menunda eksekusi program"
+    ],
+    "answer": "Digunakan untuk keluar dari loop"
+  },
+  {
+    "id": 19,
+    "question": "Bagaimana cara mendeklarasikan sebuah objek dari kelas di C#?",
+    "options": [
+      "NamaKelas obj = new NamaKelas();",
+      "obj = new NamaKelas();",
+      "NamaKelas obj;",
+      "NamaKelas obj = NamaKelas();"
+    ],
+    "answer": "NamaKelas obj = new NamaKelas();"
+  },
+  {
+    "id": 20,
+    "question": "Apa itu `new` dalam C#?",
+    "options": [
+      "Digunakan untuk membuat objek baru",
+      "Digunakan untuk menambah nilai variabel",
+      "Digunakan untuk mendeklarasikan fungsi",
+      "Digunakan untuk menghentikan program"
+    ],
+    "answer": "Digunakan untuk membuat objek baru"
+  },
+  {
+    "id": 21,
+    "question": "Apa itu `return` dalam C#?",
+    "options": [
+      "Untuk mengembalikan nilai dari fungsi",
+      "Untuk menginisialisasi objek",
+      "Untuk menangani error",
+      "Untuk mendeklarasikan tipe data"
+    ],
+    "answer": "Untuk mengembalikan nilai dari fungsi"
+  },
+  {
+    "id": 22,
+    "question": "Apa yang dimaksud dengan `string` di C#?",
+    "options": [
+      "Tipe data untuk teks",
+      "Tipe data untuk bilangan bulat",
+      "Tipe data untuk karakter",
+      "Tipe data untuk nilai boolean"
+    ],
+    "answer": "Tipe data untuk teks"
+  },
+  {
+    "id": 23,
+    "question": "Apa itu `array` di C#?",
+    "options": [
+      "Tipe data yang digunakan untuk menyimpan banyak nilai dalam satu variabel",
+      "Tipe data untuk menyimpan karakter",
+      "Tipe data untuk menyimpan objek",
+      "Tipe data untuk menyimpan angka"
+    ],
+    "answer": "Tipe data yang digunakan untuk menyimpan banyak nilai dalam satu variabel"
+  },
+  {
+    "id": 24,
+    "question": "Apa itu `foreach` di C#?",
+    "options": [
+      "Loop yang digunakan untuk mengakses setiap elemen dalam koleksi",
+      "Loop untuk mendeklarasikan objek",
+      "Fungsi untuk menangani error",
+      "Fungsi untuk menambahkan variabel"
+    ],
+    "answer": "Loop yang digunakan untuk mengakses setiap elemen dalam koleksi"
+  },
+  {
+    "id": 25,
+    "question": "Apa itu `try-catch` di C#?",
+    "options": [
+      "Digunakan untuk menangani error",
+      "Digunakan untuk menginisialisasi objek",
+      "Digunakan untuk menghentikan program",
+      "Digunakan untuk membuat objek baru"
+    ],
+    "answer": "Digunakan untuk menangani error"
+  },
+  {
+    "id": 26,
+    "question": "Apa itu `abstract` di C#?",
+    "options": [
+      "Modifikator untuk mendeklarasikan variabel dalam kelas",
+      "Menandakan fungsi tidak dapat dipanggil",
+      "Menandakan bahwa kelas atau metode tidak dapat diinstansiasi atau harus diimplementasikan dalam kelas turunan",
+      "Menandakan variabel adalah konstanta"
+    ],
+    "answer": "Menandakan bahwa kelas atau metode tidak dapat diinstansiasi atau harus diimplementasikan dalam kelas turunan"
+  },
+  {
+    "id": 27,
+    "question": "Bagaimana cara mendeklarasikan enum di C#?",
+    "options": [
+      "enum NamaEnum { Angka1, Angka2 }",
+      "enum: NamaEnum { Angka1, Angka2 }",
+      "enum NamaEnum(Angka1, Angka2) {}",
+      "enum (Angka1, Angka2) {}"
+    ],
+    "answer": "enum NamaEnum { Angka1, Angka2 }"
+  },
+  {
+    "id": 28,
+    "question": "Apa yang dimaksud dengan `ref` dalam C#?",
+    "options": [
+      "Modifikator akses untuk variabel private",
+      "Parameter untuk mendeklarasikan array",
+      "Parameter yang diteruskan sebagai referensi, memungkinkan perubahan nilai variabel di luar metode",
+      "Operator untuk mengakses nilai objek"
+    ],
+    "answer": "Parameter yang diteruskan sebagai referensi, memungkinkan perubahan nilai variabel di luar metode"
+  },
+  {
+    "id": 29,
+    "question": "Bagaimana cara mendeklarasikan konstruktor di C#?",
+    "options": [
+      "NamaKelas() : {}",
+      "public NamaKelas() {}",
+      "NamaKelas constructor {}",
+      "void NamaKelas() {}"
+    ],
+    "answer": "public NamaKelas() {}"
+  },
+  {
+    "id": 30,
+    "question": "Apa itu `interface` di C#?",
+    "options": [
+      "Tipe data untuk variabel",
+      "Modifikator akses untuk kelas",
+      "Konstruktor untuk objek baru",
+      "Tipe data yang mendeklarasikan metode yang harus diimplementasikan dalam kelas"
+    ],
+    "answer": "Tipe data yang mendeklarasikan metode yang harus diimplementasikan dalam kelas"
+  },
+  {
+    "id": 31,
+    "question": "Bagaimana cara menangani exception di C#?",
+    "options": ["while-try", "do-while", "if-else", "try-catch"],
+    "answer": "try-catch"
+  },
+  {
+    "id": 32,
+    "question": "Apa itu `async` dan `await` di C#?",
+    "options": [
+      "Digunakan untuk menghentikan eksekusi program",
+      "Digunakan untuk membuat metode asynchronous dan menunggu hasilnya",
+      "Digunakan untuk mendeklarasikan fungsi",
+      "Digunakan untuk mengatur tipe data variabel"
+    ],
+    "answer": "Digunakan untuk membuat metode asynchronous dan menunggu hasilnya"
+  },
+  {
+    "id": 33,
+    "question": "Apa itu `get` dan `set` di C#?",
+    "options": [
+      "Fungsi untuk menghitung panjang array",
+      "Fungsi untuk menangani error",
+      "Metode untuk mengakses dan mengubah nilai properti dalam kelas",
+      "Operator untuk mendeklarasikan objek"
+    ],
+    "answer": "Metode untuk mengakses dan mengubah nilai properti dalam kelas"
+  },
+  {
+    "id": 34,
+    "question": "Apa itu `delegate` di C#?",
+    "options": [
+      "Modifikator untuk mendeklarasikan fungsi",
+      "Tipe data untuk array",
+      "Tipe data untuk menyimpan referensi ke metode",
+      "Fungsi untuk menangani exception"
+    ],
+    "answer": "Tipe data untuk menyimpan referensi ke metode"
+  },
+  {
+    "id": 35,
+    "question": "Bagaimana cara mendeklarasikan array dua dimensi di C#?",
+    "options": [
+      "int[2][5] arr;",
+      "array arr[2][5];",
+      "int[,] arr;",
+      "array[2][5] arr;"
+    ],
+    "answer": "int[,] arr;"
+  },
+  {
+    "id": 36,
+    "question": "Bagaimana cara mengkonversi tipe data di C#?",
+    "options": [
+      "Semua jawaban benar",
+      "int.Parse()",
+      "Convert.ToString()",
+      "Convert.ToInt32()"
+    ],
+    "answer": "Semua jawaban benar"
+  },
+  {
+    "id": 37,
+    "question": "Bagaimana cara menambahkan item ke dalam `List` di C#?",
+    "options": [
+      "list.push(item);",
+      "list.Add(item);",
+      "list.insert(item);",
+      "list.append(item);"
+    ],
+    "answer": "list.Add(item);"
+  },
+  {
+    "id": 38,
+    "question": "Bagaimana cara menghapus item dari `List` di C#?",
+    "options": [
+      "list.pop(item);",
+      "list.delete(item);",
+      "list.removeAt(item);",
+      "list.Remove(item);"
+    ],
+    "answer": "list.Remove(item);"
+  },
+  {
+    "id": 39,
+    "question": "Apa itu `LINQ` di C#?",
+    "options": [
+      "Query untuk mengolah data dalam koleksi",
+      "Modifikator akses untuk array",
+      "Fungsi untuk menangani exception",
+      "Tipe data untuk objek"
+    ],
+    "answer": "Query untuk mengolah data dalam koleksi"
+  },
+  {
+    "id": 40,
+    "question": "Apa itu `yield` di C#?",
+    "options": [
+      "Operator untuk mengakses anggota objek",
+      "Digunakan untuk menghasilkan elemen dalam koleksi secara berurutan",
+      "Fungsi untuk menangani exception",
+      "Digunakan untuk mendeklarasikan objek"
+    ],
+    "answer": "Digunakan untuk menghasilkan elemen dalam koleksi secara berurutan"
+  },
+  {
+    "id": 41,
+    "question": "Apa itu `async` method di C#?",
+    "options": [
+      "Method yang harus memiliki `await`",
+      "Method yang berjalan secara asynchronous",
+      "Method untuk menangani exception",
+      "Method untuk melakukan perulangan"
+    ],
+    "answer": "Method yang berjalan secara asynchronous"
+  },
+  {
+    "id": 42,
+    "question": "Bagaimana cara mendeklarasikan variabel `const` di C#?",
+    "options": [
+      "const int x = 10;",
+      "x = const 10;",
+      "int const x = 10;",
+      "var const x = 10;"
+    ],
+    "answer": "const int x = 10;"
+  },
+  {
+    "id": 43,
+    "question": "Bagaimana cara mendeklarasikan property di C#?",
+    "options": [
+      "public int Property();",
+      "public int Property { }",
+      "public int Property { get; set; }",
+      "public int Property = 10;"
+    ],
+    "answer": "public int Property { get; set; }"
+  },
+  {
+    "id": 44,
+    "question": "Apa itu `sealed` di C#?",
+    "options": [
+      "Menandakan kelas tidak bisa dipanggil",
+      "Menandakan bahwa objek tidak bisa dimodifikasi",
+      "Menandakan bahwa kelas atau metode tidak bisa diwariskan lagi",
+      "Modifikator untuk tipe data"
+    ],
+    "answer": "Menandakan bahwa kelas atau metode tidak bisa diwariskan lagi"
+  },
+  {
+    "id": 45,
+    "question": "Apa itu `is` di C#?",
+    "options": [
+      "Operator untuk memeriksa tipe objek",
+      "Fungsi untuk mendeklarasikan variabel",
+      "Fungsi untuk membandingkan dua nilai",
+      "Operator untuk melakukan perulangan"
+    ],
+    "answer": "Operator untuk memeriksa tipe objek"
+  },
+  {
+    "id": 46,
+    "question": "Bagaimana cara mendeklarasikan metode dalam interface di C#?",
+    "options": [
+      "public void Metode();",
+      "public void Metode() { }",
+      "void Metode();",
+      "Metode();"
+    ],
+    "answer": "public void Metode();"
+  },
+  {
+    "id": 47,
+    "question": "Apa itu `typeof` di C#?",
+    "options": [
+      "Fungsi untuk menangani exception",
+      "Operator untuk mendapatkan tipe data objek",
+      "Modifikator untuk tipe data",
+      "Operator untuk mendeklarasikan objek"
+    ],
+    "answer": "Operator untuk mendapatkan tipe data objek"
+  },
+  {
+    "id": 48,
+    "question": "Apa itu `object` di C#?",
+    "options": [
+      "Tipe data untuk menyimpan karakter",
+      "Tipe data dasar untuk semua tipe data",
+      "Tipe data untuk nilai boolean",
+      "Tipe data untuk menyimpan array"
+    ],
+    "answer": "Tipe data dasar untuk semua tipe data"
+  },
+  {
+    "id": 49,
+    "question": "Bagaimana cara menambahkan item ke dalam `Dictionary` di C#?",
+    "options": [
+      "dict.insert(kunci, nilai);",
+      "dict.push(kunci, nilai);",
+      "dict.push(item);",
+      "dict.Add(kunci, nilai);"
+    ],
+    "answer": "dict.Add(kunci, nilai);"
+  },
+  {
+    "id": 50,
+    "question": "Apa itu `try-finally` di C#?",
+    "options": [
+      "Digunakan untuk menginisialisasi variabel",
+      "Digunakan untuk menambahkan nilai dalam koleksi",
+      "Digunakan untuk menjamin eksekusi kode di blok finally meskipun terjadi exception",
+      "Digunakan untuk mendeklarasikan objek"
+    ],
+    "answer": "Digunakan untuk menjamin eksekusi kode di blok finally meskipun terjadi exception"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "question": "Apa output dari kode: print(2 + 3 * 4)?",
+    "options": ["20", "14", "24", "10"],
+    "answer": "14"
+  },
+  {
+    "id": 2,
+    "question": "Fungsi bawaan apa yang digunakan untuk mendapatkan panjang dari sebuah list?",
+    "options": ["count()", "length()", "size()", "len()"],
+    "answer": "len()"
+  },
+  {
+    "id": 3,
+    "question": "Apa tipe data dari hasil operasi: 3 / 2?",
+    "options": ["int", "float", "str", "bool"],
+    "answer": "float"
+  },
+  {
+    "id": 4,
+    "question": "Manakah dari berikut ini adalah komentar satu baris dalam Python?",
+    "options": [
+      "// komentar",
+      "# komentar",
+      "/* komentar */",
+      "<!-- komentar -->"
+    ],
+    "answer": "# komentar"
+  },
+  {
+    "id": 5,
+    "question": "Apa output dari kode berikut: print(type('5'))?",
+    "options": [
+      "<class 'int'>",
+      "<class 'str'>",
+      "<class 'float'>",
+      "<class 'bool'>"
+    ],
+    "answer": "<class 'str'>"
+  },
+  {
+    "id": 6,
+    "question": "Apa nama keyword untuk membuat fungsi di Python?",
+    "options": ["func", "def", "function", "define"],
+    "answer": "def"
+  },
+  {
+    "id": 7,
+    "question": "Apa hasil dari 5 == 5.0?",
+    "options": ["True", "False", "Error", "None"],
+    "answer": "True"
+  },
+  {
+    "id": 8,
+    "question": "Apa hasil dari kode berikut: print('Hello' + 'World')?",
+    "options": ["Hello World", "HelloWorld", "Hello+World", "Error"],
+    "answer": "HelloWorld"
+  },
+  {
+    "id": 9,
+    "question": "Apa output dari kode berikut: print(bool(0))?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "False"
+  },
+  {
+    "id": 10,
+    "question": "Metode apa yang digunakan untuk menambahkan item ke list?",
+    "options": ["add()", "insert()", "append()", "push()"],
+    "answer": "append()"
+  },
+  {
+    "id": 11,
+    "question": "Bagaimana cara membuat list kosong?",
+    "options": ["list()", "[]", "{}", "semua benar"],
+    "answer": "semua benar"
+  },
+  {
+    "id": 12,
+    "question": "Apa output dari: print('Python'[0])?",
+    "options": ["P", "Y", "n", "Error"],
+    "answer": "P"
+  },
+  {
+    "id": 13,
+    "question": "Bagaimana cara membuat perulangan sebanyak 5 kali?",
+    "options": [
+      "for i in 5",
+      "for i in range(5)",
+      "while i < 5",
+      "repeat 5 times"
+    ],
+    "answer": "for i in range(5)"
+  },
+  {
+    "id": 14,
+    "question": "Metode string mana yang mengubah huruf menjadi kapital semua?",
+    "options": ["capitalize()", "upper()", "title()", "uppercase()"],
+    "answer": "upper()"
+  },
+  {
+    "id": 15,
+    "question": "Apa nama tipe data untuk True atau False di Python?",
+    "options": ["int", "bool", "binary", "logic"],
+    "answer": "bool"
+  },
+  {
+    "id": 16,
+    "question": "Keyword apa yang digunakan untuk kondisi percabangan?",
+    "options": ["if", "when", "switch", "case"],
+    "answer": "if"
+  },
+  {
+    "id": 17,
+    "question": "Bagaimana cara mengakses nilai dari dictionary dengan key tertentu?",
+    "options": [
+      "dict.get(key)",
+      "dict[key]",
+      "keduanya benar",
+      "dict.value(key)"
+    ],
+    "answer": "keduanya benar"
+  },
+  {
+    "id": 18,
+    "question": "Apa hasil dari: print(10 % 3)?",
+    "options": ["3", "1", "0", "10"],
+    "answer": "1"
+  },
+  {
+    "id": 19,
+    "question": "Apa fungsi dari 'break' dalam loop?",
+    "options": [
+      "Menghapus loop",
+      "Melanjutkan iterasi",
+      "Keluar dari loop",
+      "Menunda loop"
+    ],
+    "answer": "Keluar dari loop"
+  },
+  {
+    "id": 20,
+    "question": "Fungsi apa yang digunakan untuk menerima input dari user?",
+    "options": ["read()", "input()", "scan()", "get()"],
+    "answer": "input()"
+  },
+  {
+    "id": 21,
+    "question": "Apa hasil dari 2 ** 3 di Python?",
+    "options": ["6", "8", "9", "Error"],
+    "answer": "8"
+  },
+  {
+    "id": 22,
+    "question": "Struktur data apa yang immutable di Python?",
+    "options": ["List", "Tuple", "Set", "Dictionary"],
+    "answer": "Tuple"
+  },
+  {
+    "id": 23,
+    "question": "Fungsi apa untuk mengurutkan list?",
+    "options": ["order()", "arrange()", "sort()", "fix()"],
+    "answer": "sort()"
+  },
+  {
+    "id": 24,
+    "question": "Bagaimana cara menulis loop while?",
+    "options": ["while i < 10:", "repeat i < 10", "loop while", "for while i"],
+    "answer": "while i < 10:"
+  },
+  {
+    "id": 25,
+    "question": "Bagaimana cara mengimport modul math?",
+    "options": ["import math", "include math", "use math", "load math"],
+    "answer": "import math"
+  },
+  {
+    "id": 26,
+    "question": "Fungsi math yang digunakan untuk akar kuadrat?",
+    "options": ["root()", "sqrt()", "square()", "power()"],
+    "answer": "sqrt()"
+  },
+  {
+    "id": 27,
+    "question": "Metode yang digunakan untuk menghapus item dari list?",
+    "options": ["delete()", "pop()", "remove()", "pop() atau remove()"],
+    "answer": "pop() atau remove()"
+  },
+  {
+    "id": 28,
+    "question": "Apa hasil dari: '4' + 2?",
+    "options": ["6", "'42'", "Error", "'4 2'"],
+    "answer": "Error"
+  },
+  {
+    "id": 29,
+    "question": "Apa output dari: bool([])?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "False"
+  },
+  {
+    "id": 30,
+    "question": "Apa fungsi dari pass?",
+    "options": [
+      "Melewati blok kode",
+      "Mengakhiri program",
+      "Melanjutkan loop",
+      "Menampilkan output"
+    ],
+    "answer": "Melewati blok kode"
+  },
+  {
+    "id": 31,
+    "question": "Apa yang dilakukan perintah: list.reverse()?",
+    "options": [
+      "Mengurutkan list",
+      "Membalik urutan list",
+      "Menghapus item terakhir",
+      "Menyalin list"
+    ],
+    "answer": "Membalik urutan list"
+  },
+  {
+    "id": 32,
+    "question": "Bagaimana cara menampilkan 5 karakter pertama dari string s = 'Python'?",
+    "options": ["s[:5]", "s[0:4]", "s[1:5]", "s[5:]"],
+    "answer": "s[:5]"
+  },
+  {
+    "id": 33,
+    "question": "Apa hasil dari: len('')?",
+    "options": ["0", "1", "Error", "None"],
+    "answer": "0"
+  },
+  {
+    "id": 34,
+    "question": "Metode string untuk menghapus spasi di awal dan akhir string?",
+    "options": ["trim()", "strip()", "remove()", "clean()"],
+    "answer": "strip()"
+  },
+  {
+    "id": 35,
+    "question": "Apa yang dikembalikan fungsi input() secara default?",
+    "options": ["int", "float", "str", "bool"],
+    "answer": "str"
+  },
+  {
+    "id": 36,
+    "question": "Apa simbol operator logika 'dan' dalam Python?",
+    "options": ["&&", "and", "&", "AND"],
+    "answer": "and"
+  },
+  {
+    "id": 37,
+    "question": "Apa output dari: 10 // 3?",
+    "options": ["3.33", "3", "4", "Error"],
+    "answer": "3"
+  },
+  {
+    "id": 38,
+    "question": "Struktur data mana yang tidak mengizinkan duplikat?",
+    "options": ["list", "tuple", "set", "dictionary"],
+    "answer": "set"
+  },
+  {
+    "id": 39,
+    "question": "Apa nama exception saat membagi bilangan dengan nol?",
+    "options": ["ZeroDivisionError", "ValueError", "TypeError", "SyntaxError"],
+    "answer": "ZeroDivisionError"
+  },
+  {
+    "id": 40,
+    "question": "Apa output dari: type([])?",
+    "options": ["<class 'list'>", "<type 'list'>", "<class 'tuple'>", "<list>"],
+    "answer": "<class 'list'>"
+  },
+  {
+    "id": 41,
+    "question": "Bagaimana cara mengecek apakah nilai ada di dalam list?",
+    "options": ["in", "has", "contain", "exists"],
+    "answer": "in"
+  },
+  {
+    "id": 42,
+    "question": "Apa yang terjadi jika kita lupa indentasi setelah if statement?",
+    "options": ["Error", "Output kosong", "False", "Tidak ada efek"],
+    "answer": "Error"
+  },
+  {
+    "id": 43,
+    "question": "Apa output dari: print(3 > 2 and 1 > 0)?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "True"
+  },
+  {
+    "id": 44,
+    "question": "Metode untuk mengubah string menjadi huruf kecil semua?",
+    "options": ["lower()", "small()", "minimize()", "downcase()"],
+    "answer": "lower()"
+  },
+  {
+    "id": 45,
+    "question": "Apa hasil dari: '5' * 3?",
+    "options": ["555", "15", "Error", "5*3"],
+    "answer": "555"
+  },
+  {
+    "id": 46,
+    "question": "Apa arti dari None dalam Python?",
+    "options": ["False", "Kosong atau tidak ada nilai", "0", "Null string"],
+    "answer": "Kosong atau tidak ada nilai"
+  },
+  {
+    "id": 47,
+    "question": "Apa nama metode untuk menghapus seluruh isi list?",
+    "options": ["remove()", "clear()", "delete()", "pop()"],
+    "answer": "clear()"
+  },
+  {
+    "id": 48,
+    "question": "Bagaimana cara membuat komentar banyak baris di Python?",
+    "options": [
+      "'''komentar'''",
+      "# komentar\n# komentar",
+      "keduanya benar",
+      "/* komentar */"
+    ],
+    "answer": "keduanya benar"
+  },
+  {
+    "id": 49,
+    "question": "Apa simbol operator 'atau' dalam Python?",
+    "options": ["||", "or", "|", "OR"],
+    "answer": "or"
+  },
+  {
+    "id": 50,
+    "question": "Apa hasil dari 4 != 5?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "True"
+  }
+]
