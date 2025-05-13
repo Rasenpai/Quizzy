@@ -1,5 +1,5 @@
 import React from "react";
-import JavaScriptImage from "../assets/JavaScript.jpg"; // Ganti dengan gambar JavaScript
+import JavaScriptImage from "../assets/Javascript.jpg"; 
 import { Link } from "react-router-dom";
 
 const JavaScriptIntermediateDescription = () => {
