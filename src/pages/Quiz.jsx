@@ -177,7 +177,7 @@ const Quiz = () => {
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
-        </div>
+        </div>  
 
         {/* Trending Keywords */}
         <div className="mt-6 text-white">
